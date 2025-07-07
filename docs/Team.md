@@ -1,5 +1,4 @@
 # Team
-
-[[Branding & Guidelines]]
-[[Index]]
-[[Help]]
+- Nick McLain - Commmunications Specialist
+- Joel Smith - Curriculum Data Coordinator/Comms Backup
+- Trace Leapley - Multimedia Specialist
