@@ -1,4 +1,3 @@
-<!-- @import "wikistyle.css" -->
 # Applications used by MD Student News
 
 ## LiveWhale
