@@ -3,5 +3,5 @@
 For issues beyond our control.
 
 Sitecore
-- Contact Alyss Geysler
+- Contact Alyss Geisler
 
