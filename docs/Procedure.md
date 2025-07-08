@@ -56,7 +56,7 @@ This email will use the **commercial template** with the publication list **Stud
 
 ### Index
 
-[[Branding & Guidelines]]  
+[[Branding_Guidelines]]  
 [[Applications]]  
 [[Index]]  
 [[Team]]
