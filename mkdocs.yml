@@ -9,6 +9,7 @@ theme:
     primary: custom
   features:
     - navigation.tabs
+    - navigation.instant
 
 extra_css:
   - stylesheets/wikistyle.css
@@ -21,3 +22,5 @@ nav:
   - Procedure: Procedure.md
   - Team: Team.md
 
+plugins:
+  - search
