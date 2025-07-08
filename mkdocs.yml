@@ -2,7 +2,8 @@ site_name: MD Student News
 site_url: https://camshron.github.io/MDSNews
 
 theme:
-  name: null
+  name: material
+  custom_dir: overrides
   palette:
     scheme: default
     primary: custom
