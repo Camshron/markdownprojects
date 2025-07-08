@@ -24,3 +24,6 @@ nav:
 
 plugins:
   - search
+  - awesome-pages
+  - git-revision-date-localized
+  
