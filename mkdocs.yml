@@ -3,7 +3,6 @@ site_url: https://camshron.github.io/MDSNews
 
 theme:
   name: material
-  custom_dir: stylesheets
   palette:
     scheme: default
     primary: custom
@@ -17,7 +16,7 @@ extra_css:
 nav:
   - Home: index.md
   - Applications: Applications.md
-  - Branding Guidelines: Branding & Guidelines.md
+  - Branding Guidelines: Branding_Guidelines.md
   - Help: Help.md
   - Procedure: Procedure.md
   - Team: Team.md
@@ -26,4 +25,5 @@ plugins:
   - search
   - awesome-pages
   - git-revision-date-localized
-  
+
+
