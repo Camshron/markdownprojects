@@ -1,9 +1,7 @@
 
 # **Branding & Guidelines**
 
-## **Associated Press Style Examples**
-
-[See the editorial style guide](https://medicine.iu.edu/style-guide)       
+[See the editorial style guide for more information](https://medicine.iu.edu/style-guide)       
 
 ### **Dates**
 
