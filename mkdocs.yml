@@ -3,7 +3,7 @@ site_url: https://camshron.github.io/MDSNews
 
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: stylesheets
   palette:
     scheme: default
     primary: custom
