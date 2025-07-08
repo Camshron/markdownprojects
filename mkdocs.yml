@@ -8,11 +8,15 @@ theme:
     primary: custom
   features:
     - navigation.tabs
-  
 
 extra_css:
   - stylesheets/wikistyle.css
 
+nav:
+  - Home: index.md
+  - Applications: Applications.md
+  - Branding Guidelines: Branding & Guidelines.md
+  - Help: Help.md
+  - Procedure: Procedure.md
+  - Team: Team.md
 
-
-  
