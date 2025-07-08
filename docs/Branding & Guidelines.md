@@ -1,7 +1,6 @@
-
 # **Branding & Guidelines**
 
-[See the editorial style guide for more information](https://medicine.iu.edu/style-guide)       
+[See the editorial style guide for more information](https://medicine.iu.edu/style-guide)
 
 ### **Dates**
 
