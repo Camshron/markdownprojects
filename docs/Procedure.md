@@ -1,4 +1,4 @@
-# Procedure
+# **Procedure**
 
 ## I. MD Student News Procedure
 

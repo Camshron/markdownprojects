@@ -1,4 +1,4 @@
-# Applications used by MD Student News
+# **Applications used by MD Student News**
 
 ## LiveWhale
 
