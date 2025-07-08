@@ -1,5 +1,12 @@
-site_name: MD Student News
-site_url: https://camshron.github.io/MDSNews
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: custom
+  features:
+    - navigation.tabs
+  custom_dir: overrides
+
 extra_css:
-  - wikistyle.css
-  
+  - stylesheets/wikistyle.css 
