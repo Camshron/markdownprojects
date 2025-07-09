@@ -59,4 +59,4 @@ This email will use the **commercial template** with the publication list **Stud
 [[Branding_Guidelines]]  
 [[Applications]]  
 [[Index]]  
-[[Team]]
+[[team]]

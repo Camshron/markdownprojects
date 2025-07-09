@@ -1,26 +1,18 @@
-site_name: MD Student News
-site_url: https://camshron.github.io/MDSNews
-
+site_name: MDSNews 
+site_url: https://your-username.github.io/mdsnews/
 theme:
   name: material
-  palette:
-    scheme: default
-    primary: custom
+  font:
+    text: Benton Sans
+    code: Fira Code
   features:
     - navigation.tabs
     - navigation.instant
 
 nav:
   - Home: index.md
-  - Applications: Applications.md
-  - Branding Guidelines: Branding_Guidelines.md
-  - Help: Help.md
-  - Procedure: Procedure.md
-  - Team: Team.md
-
-plugins:
-  - search
-  - awesome-pages
-  - git-revision-date-localized
-
-
+  - Applications: applications.md
+  - Branding Guidelines: branding_guidelines.md
+  - Help: help.md
+  - Procedure: procedure.md
+  - Team: team.md
