@@ -1,8 +1,20 @@
 # **Help**
 
-For issues beyond our control.
+For issues beyond our control...
 
-Sitecore
+## LiveWhale
 
-- Contact Alyssa Geisler
+- Lynn Boak
+
+## Salesforce
+
+- TBD
+
+## Smartsheet
+
+- Joel Smith
+
+## Sitecore
+
+- Alyssa Geisler
 
