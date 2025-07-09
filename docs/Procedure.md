@@ -54,9 +54,4 @@ This email will use the **commercial template** with the publication list **Stud
 - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
 
-### Index
 
-[[Branding_Guidelines]]  
-[[Applications]]  
-[[Index]]  
-[[team]]
