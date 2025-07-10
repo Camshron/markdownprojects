@@ -1,4 +1,5 @@
 # **Newsletter Setup in Salesforce**
+
 ## I. Accessing Salesforce
 
 1. **Navigate to Email Studio:**
@@ -11,7 +12,9 @@
    - Begin editing as needed.
 
 3. **Insert Content:**
+
    - Add the approved submissions from the editorial calendar into the newsletter draft.
+
 ## II. Weekly Newsletter
 
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
@@ -64,6 +67,4 @@ This email will use the **commercial template** with the publication list **Stud
 - `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
 - `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
 - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
-
-
+- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824'
