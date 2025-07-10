@@ -1,6 +1,6 @@
-# **Procedure**
+# **Newsletter Setup in Sitecore**
 
-## I. MD Student News Procedure
+## I. Weekly Newsletter
 
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
@@ -36,7 +36,7 @@ LOAs are a special case and will need their own version of the email, which will
 
 When it asks for a publication list, put in **MD Student News Students**.
 
-## II. Student Events Email Procedure
+## II. Weekly Events
 
 Send every Tuesday at 3:00 PM ET.
 
