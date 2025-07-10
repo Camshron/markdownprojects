@@ -11,8 +11,7 @@ theme:
 
 extra_css:
     - css/wikistyle.css
-
-
+    
 nav:
   - Home: index.md
   - Applications: applications.md
