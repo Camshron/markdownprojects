@@ -1,10 +1,10 @@
 # **Help**
 
-For issues beyond our control...
+For issues beyond your control...
 
 ## LiveWhale
 
-- Lynn Boak
+- [Lynn Boak](mailto:lboak@iu.edu)
 
 ## Salesforce
 
@@ -12,9 +12,8 @@ For issues beyond our control...
 
 ## Smartsheet
 
-- Joel Smith
+- [Joel Smith](mailto:joelsmit@iu.edu)
 
 ## Sitecore
 
-- Alyssa Geisler
-
+- [Alyssa Geisler](mailto:ajgeisle@iu.edu)

@@ -15,4 +15,3 @@
 ## Smartsheet
 
 - An application powered by spreadsheets allowing for the creation of workflows. This application is where we house and schedule our published content.
-
