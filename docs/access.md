@@ -1,29 +1,50 @@
-# Salesforce Marketing Cloud Training & Access
+# Application Access
 
-Go to https://salesforce.ucm.iu.edu 
+## Salesforce
 
-Scroll down to “Getting access to Marketing Cloud.” 
+To request access to Salesforce Marketing Cloud, follow the steps below:
 
-Scroll down and click on “Submit an access request form.” 
+#### 1. Navigate to the access portal:
 
-Click on “User access request form” button. 
+- Go to <https://salesforce.ucm.iu.edu>.
 
-In username, just put your IU username. 
+#### 2. Locate the access request form:
 
-Request type is ‘Request Access.” 
+- Scroll down to the "Getting access to Marketing Cloud" section.
 
-Under “Include Communication Module Access (Marketing Cloud)”, click Yes. 
+#### 3. Open the request form:
 
-In “Requested IU Units,” enter our member ID: 7325516. That is our number for IN-MED-MSE in Salesforce Marketing Cloud. 
+- Click on "Submit an access request form", then select the "User access request form" button.
 
-In User Type, select “Communications User Only.” 
+#### 4. Complete the form as follows:
 
-Do not select any of the boxes in Requested Data Populations. 
+- Username: Enter your IU username (do not include @iu.edu).
 
-Click on each of the Agreements and Tutorials and complete them/sign off on them. 
+- Request Type: Select Request Access.
 
-Once that is down, click drop down menu and select “I have completed all required compliance tutorials and agreements.” 
+- Include Communication Module Access (Marketing Cloud): Select Yes.
 
-Select Submit button at bottom of screen. 
+- Requested IU Units: Enter 7325516 (this is the ID for IN-MED-MSE).
 
-You will likely receive a request from IU’s CRM team to do some trainings before granting you access. Go ahead and complete those trainings. If you have any questions about them, you can ask Nick and/or Joel. 
+- User Type: Select Communications User Only.
+
+- Requested Data Populations: Do not select any boxes.
+
+#### 5. Complete compliance requirements:
+
+- Click on each of the Agreements and Tutorials and complete them.
+
+- Once completed, use the dropdown to select:
+“I have completed all required compliance tutorials and agreements.”
+
+#### 6. Submit your request:
+
+- Scroll to the bottom of the page and click Submit.
+
+#### 7. Follow-up training:
+
+- You may receive a follow-up email from IU’s CRM team with required trainings. Please complete them as instructed.
+
+##### Need Help?
+
+- If you have any questions, reach out to Nick or Joel for assistance.
