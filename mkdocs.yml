@@ -2,14 +2,16 @@ site_name: MDSNews
 site_url: https://your-username.github.io/mdsnews/
 theme:
   name: material
-  extra_css:
-    - css/wikistyle.css
   font:
     text: Benton Sans
     code: Fira Code
   features:
     - navigation.tabs
     - navigation.instant
+
+extra_css:
+    - css/wikistyle.css
+
 
 nav:
   - Home: index.md
