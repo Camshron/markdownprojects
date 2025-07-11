@@ -2,16 +2,19 @@
 
 ## I. Accessing Salesforce
 
-1. **Navigate to Email Studio:**   
+1. **Navigate to Email Studio:**
+
       - Click **Email Studio** in the main menu.
       - Select **Content**.
       - Open the folder labeled with the upcoming newsletter date.
 
 2. **Edit the Newsletter Draft:**
+
       - Open the newsletter document in the folder.
       - Begin editing as needed.
 
 3. **Insert Content:**
+
       - Add the approved submissions from the editorial calendar into the newsletter draft.
 
 ## II. Weekly Newsletter
