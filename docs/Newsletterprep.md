@@ -12,7 +12,6 @@
    - Begin editing as needed.
 
 3. **Insert Content:**
-
    - Add the approved submissions from the editorial calendar into the newsletter draft.
 
 ## II. Weekly Newsletter
