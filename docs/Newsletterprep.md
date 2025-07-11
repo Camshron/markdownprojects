@@ -21,11 +21,7 @@
 
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
-- One for stakeholders
-- One each for the four student phases (P1Y1, P1Y2, P2, P3)
-- One for LOAs (students on leave of absence)
-
- 1. **Stakeholders Version (1)**
+1. **Stakeholders Version (One email)**
     
     - **Very important:** Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the **commercial template**.
 
@@ -33,7 +29,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
      - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
      - When it asks for a publication list, put in **MD Student News Stakeholders**.
 
-2. **Phase-Specific Versions (4)**
+2. **Phase-Specific Versions (Four Emails)**
 
    - **Very important:** We don’t want students to unsubscribe, so these emails should use the **transactional template**.
 
@@ -48,7 +44,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
    - Publication list: **MD Student News Students**.
 
-3. **LOA Version (1)**
+3. **LOA Version (One Email)**
 
    - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
 
