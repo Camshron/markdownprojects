@@ -37,15 +37,12 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
       `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
 
      - **Phase 1 Year 2:**  
-  
       `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
 
      - **Phase 2:**  
-  
       `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
 
       - **Phase 3:**  
-
       `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
    - Publication list: **MD Student News Students**.
@@ -70,16 +67,16 @@ Send every Tuesday at 3:00 PM ET.
 1. Use the **commercial template** 
 2. Publication List: **Student Events**.
 
-   - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
+  - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
   
-   - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
+  - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
 
-   - `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
+  - `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
 
-   - `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
+  - `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
 
-   - `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
+  - `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
 
-   - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
+  - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
-   - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
+  - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
