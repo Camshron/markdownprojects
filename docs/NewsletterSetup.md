@@ -67,4 +67,4 @@ This email will use the **commercial template** with the publication list **Stud
 - `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
 - `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
 - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824'
+- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
