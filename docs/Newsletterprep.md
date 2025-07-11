@@ -35,17 +35,17 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
      - **Phase 1 Year 1:**  
       `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
-     
+
      - **Phase 1 Year 2:**  
   
       `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
-     
+
      - **Phase 2:**  
   
       `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
-     
-     - **Phase 3:**  
-  
+
+      - **Phase 3:**  
+
       `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
    - Publication list: **MD Student News Students**.
