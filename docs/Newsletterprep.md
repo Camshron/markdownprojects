@@ -25,33 +25,36 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 - One each for the four student phases (P1Y1, P1Y2, P2, P3)
 - One for LOAs (students on leave of absence)
 
-**Stakeholders Version (1)**
-**Very important:** Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the **commercial template**.
+ 1. **Stakeholders Version (1)**
+    
+    - **Very important:** Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the **commercial template**.
 
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
-- When it asks for a publication list, put in **MD Student News Stakeholders**.
+     - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
+     - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
+     - When it asks for a publication list, put in **MD Student News Stakeholders**.
 
-**Phase-Specific Versions (4)**
-**Very important:** We don’t want students to unsubscribe, so these emails should use the **transactional template**.
+2. **Phase-Specific Versions (4)**
 
-- **Phase 1 Year 1:**  
-  `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
-- **Phase 1 Year 2:**  
-  `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
-- **Phase 2:**  
-  `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
-- **Phase 3:**  
-  `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
+   - **Very important:** We don’t want students to unsubscribe, so these emails should use the **transactional template**.
 
-When it asks for a publication list, put in **MD Student News Students**.
+     - **Phase 1 Year 1:**  
+      `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
+     - **Phase 1 Year 2:**  
+      `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
+     - **Phase 2:**  
+      `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
+     - **Phase 3:**  
+      `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
-**LOA Version (1)**
-LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
+   - Publication list: **MD Student News Students**.
 
-- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
+3. **LOA Version (1)**
 
-When it asks for a publication list, put in **MD Student News Students**.
+   - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
+
+    - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
+
+   - When it asks for a publication list, put in **MD Student News Students**.
 
 ## III. Weekly Events
 
@@ -62,14 +65,13 @@ Send every Tuesday at 3:00 PM ET.
 >- "Not sent between Christmas and New Year"  
 >- "Reduced number of emails between June and July due to lack of entries"
 
+1. Use the **commercial template** 
+2. Publication List: **Student Events**.
 
-- Use the **commercial template** 
-- Publication List: **Student Events**.
-</br>
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
-- `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
-- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
+   - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
+   - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
+   - `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
+   - `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
+   - `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
+   - `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
+   - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
