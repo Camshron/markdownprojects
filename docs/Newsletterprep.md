@@ -55,12 +55,15 @@ When it asks for a publication list, put in **MD Student News Students**.
 
 Send every Tuesday at 3:00 PM ET.
 
-**Exceptions:**  
-This email is not sent during the days from around Christmas through New Year.  
-It is also paused in June and July due to a lack of entries.
+>**Exceptions:**  
+>
+>- "Not sent between Christmas and New Year"  
+>- "Reduced number of emails between June and July due to lack of entries"
 
-This email will use the **commercial template** with the publication list **Student Events**.
 
+- Use the **commercial template** 
+- Publication List: **Student Events**.
+</br>
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
 - `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
