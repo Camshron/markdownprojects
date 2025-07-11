@@ -1,6 +1,6 @@
 # **Newsletter Setup in Salesforce**
 
-## I. Accessing Salesforce
+## I. Accessing Salesforce Folders
 
 1. **Navigate to Email Studio:**
 
