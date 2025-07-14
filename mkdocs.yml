@@ -13,7 +13,7 @@ extra_css:
     - css/wikistyle.css
 
 extra:
-  favicon: img/iusm.ico    
+  favicon: iusm.ico    
 
 nav:
   - Home: index.md
