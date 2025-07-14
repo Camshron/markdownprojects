@@ -12,6 +12,9 @@ theme:
 extra_css:
     - css/wikistyle.css
 
+extra:
+  favicon: img/iusm.ico    
+
 nav:
   - Home: index.md
   - Applications: applications.md
