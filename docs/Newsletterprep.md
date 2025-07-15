@@ -1,6 +1,6 @@
 # **Newsletter Setup in Salesforce**
 
-## I. Accessing Salesforce Folders
+## Accessing Salesforce Folders
 
 1. **Navigate to Email Studio:**
 
@@ -17,7 +17,7 @@
 
       - Add the approved submissions from the editorial calendar into the newsletter draft.
 
-## II. Weekly Newsletter
+## Weekly Newsletter
 
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
@@ -46,7 +46,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
       `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
    - Publication list: **MD Student News Students**.
-
+</br>
 3. **LOA Version (One Email)**
 
    - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
@@ -55,7 +55,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
    - When it asks for a publication list, put in **MD Student News Students**.
 
-## III. Weekly Events
+## Weekly Events
 
 Send every Tuesday at 3:00 PM ET.
 

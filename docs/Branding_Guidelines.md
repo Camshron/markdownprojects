@@ -1,12 +1,8 @@
 # **Branding & Guidelines**
 
-<p style="text-align: left;">
-  <a href="https://medicine.iu.edu/style-guide" style="display: inline-block; padding: 10px 20px; background-color: #990000; color: white; text-decoration: none; border-radius: 5px;">
-    See the editorial guide for more information
-  </a>
-</p>
+## Examples
 
-### **Dates**
+### Dates
 
 - It is Sept. 4 or September 4, not September 4th or Sept. 4th.
 </br>
@@ -18,7 +14,7 @@
 </br>
 - If the date for something is in the same year you’re in (say, 2024), you don’t need to list the year.
 
-### **Times**
+### Times
 
 - It is not 12 pm. It is Noon or noon.
 </br>
@@ -28,18 +24,18 @@
 </br>
 - On that note, be sure to note the time zone in everything. I’d prefer just to make it ET in all references.
 
-### **Headlines**
+### Headlines
 
 - Much to my chagrin, Strat Comm wants headlines in sentence case. So a headline would be:
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
-**Exception:** Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+>**Exception:** Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
 
 **Note:** If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
 “Phase 3: Select Transitions 3 track today”
 
-### **Call to Action**
+### Call to Action
 
 - We get a lot of submissions that have no calls to action:  
 “Phase 2 scheduling guidelines.” It doesn’t tell the reader what to do with it.
@@ -49,7 +45,7 @@
 
 There are some helpful lists online that you can print out that offer lots of call-to-action verbs.
 
-### **Titles**
+### Titles
 
 - As you know, we put the person’s academic credentials after their name on first reference:  
 Nick McLain, MD, PhD.
@@ -63,3 +59,22 @@ When using someone’s job title:
 </br>
 - Do **not** capitalize it when used **after** their name  
   *Example: Nick McLain, communications specialist, said that…*
+
+---
+<p style="text-align: left;">
+  <a href="https://medicine.iu.edu/style-guide"
+     style="display: inline-block;
+            padding: 8px 16px;
+            background-color: #990000;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            border-bottom: 2px solid #660000;
+            transition: all 0.1s ease-in-out;
+            position: relative;"
+     onmousedown="this.style.transform='translateY(2px)'; this.style.boxShadow='0 2px 3px rgba(0,0,0,0.2)'"
+     onmouseup="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.2)'">
+    See the editorial guide for more information
+  </a>
+</p>
