@@ -1,6 +1,10 @@
 # **Branding & Guidelines**
 
-[See the editorial style guide for more information](https://medicine.iu.edu/style-guide)
+<p style="text-align: left;">
+  <a href="https://medicine.iu.edu/style-guide" style="display: inline-block; padding: 10px 20px; background-color: #990000; color: white; text-decoration: none; border-radius: 5px;">
+    See the editorial guide for more information
+  </a>
+</p>
 
 ### **Dates**
 
