@@ -78,3 +78,5 @@ When using someone’s job title:
     See the editorial guide for more information
   </a>
 </p>
+
+<a href="#top" class="back-to-top">↑ Back to Top</a>
