@@ -4,6 +4,7 @@
 Follow the steps below to organize and manage submissions for the MD Student News:
 
 **1. Organize Email Submissions**
+
 - Open the MDS News inbox.
 - Create a folder for each week's edition, using a clear naming convention (e.g., 2025-07-22 Edition).
 - Drag and drop submissions into the appropriate weekly folder.
@@ -20,14 +21,12 @@ Follow the steps below to organize and manage submissions for the MD Student New
 - Updates or revisions may be hidden within automatic replies.
 
 **4. Create a Weekly Archive Folder**
+
 - In Teams or OneDrive, create a folder to store weekly content.
 
 - Use the following naming format:
     YYYY-MM-DD_MD Student News
     (Example: 2025-07-22_MD Student News)
-
-
-
 
 ## Salesforce
 
