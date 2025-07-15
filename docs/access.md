@@ -75,3 +75,7 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 ### 7. Follow-up training
 
 - You may receive a follow-up email from IU’s CRM team with required trainings. Please complete them as instructed.
+
+---
+
+<a href="#top" class="back-to-top">↑ Back to Top</a>
