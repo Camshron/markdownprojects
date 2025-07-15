@@ -2,18 +2,10 @@
 
 For issues beyond your control...
 
-## LiveWhale
+**LiveWhale** - [Lynn Boak](mailto:lboak@iu.edu)
 
-- [Lynn Boak](mailto:lboak@iu.edu)
+**Salesforce** - Unknown
 
-## Salesforce
+**Smartsheet** - [Joel Smith](mailto:joelsmit@iu.edu)
 
-- Unknown
-
-## Smartsheet
-
-- [Joel Smith](mailto:joelsmit@iu.edu)
-
-## Sitecore
-
-- [Alyssa Geisler](mailto:ajgeisle@iu.edu)
+**Sitecore** - [Alyssa Geisler](mailto:ajgeisle@iu.edu)
