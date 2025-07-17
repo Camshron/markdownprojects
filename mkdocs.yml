@@ -1,6 +1,6 @@
 # mkdocs.yml
-site_name: MDSNews
-site_url: https://camshron.github.io/mdsnews/ # Remember to replace 'your-username'
+site_name: markdownprojects
+site_url: https://camshron.github.io/markdownprojects/ # Remember to replace 'your-username'
 
 theme:
   name: material
