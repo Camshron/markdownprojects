@@ -80,6 +80,4 @@ plugins:
   - mike
   - minify: # Optional: Minify HTML, CSS, JS for faster loading
       minify_html: true
-      minify_js: true
-      minify_css: true
-      html_optimization: true
+    
