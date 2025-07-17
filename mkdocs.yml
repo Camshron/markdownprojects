@@ -35,12 +35,14 @@ extra:
 
 nav:
   - Home: index.md
-  - Applications: applications.md
-  - Access: access.md
-  - Branding Guidelines: branding_guidelines.md
-  - Help: help.md
-  - Newsletter Setup: Newsletterprep.md
-  - Team: team.md
+  - MDS News Docs: 
+      - Applications: docs/applications.md
+      - Access: docs/access.md
+      - Branding Guidelines: docs/branding_guidelines.md
+      - Help: docs/help.md
+      - Newsletter Setup: docs/Newsletterprep.md
+      - Team: docs/team.md
+  - Future Pages:
 
 # Added Features #
 markdown_extensions:
