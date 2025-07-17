@@ -26,7 +26,7 @@ theme:
 
 extra_css:
   - css/wikistyle.css
-  - https://fonts.googleapis.com/css2?family=Georgia&display=swap # Link to Georgia from Google Fonts
+  
 
 extra:
   favicon: iusm.ico
@@ -42,7 +42,7 @@ nav:
       - Help: docs/help.md
       - Newsletter Setup: docs/Newsletterprep.md
       - Team: docs/team.md
-  - Future Pages:
+# - Future Pages:
 
 # Added Features #
 markdown_extensions:
