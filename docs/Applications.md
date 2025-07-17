@@ -1,3 +1,6 @@
+[iusmlogo](iusmlogo.png)
+
+
 # **Applications used by MD Student News**
 
 **LiveWhale** - A web-based event management system used to promote and manage events.

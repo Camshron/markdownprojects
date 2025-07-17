@@ -1,4 +1,4 @@
-# Application Setup
+# **Application Setup**
 
 ## Outlook
 
