@@ -12,22 +12,19 @@ theme:
     text: Benton Sans # Keep if you have a way to serve it, otherwise use a Google Font like 'Open Sans' or 'Roboto'
     code: Fira Code
   palette:
-    # Scheme 'slate' is a dark theme, 'default' is light.
-    # We want a light base with crimson accents.
-    - media: "(prefers-color-scheme: light)" # Default light theme
-      scheme: default
-      primary: red    # Material for MkDocs uses named colors. We'll override with CSS.
-      accent: red     # Accent color for links/highlights.
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)" # Optional dark theme
-      scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/toggle-switch-on-outline
-        name: Switch to light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: red
+    accent: red
+    toggle:
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: red
+    accent: red
+    toggle:
+      name: Switch to light mode
+
 
   features:
     - navigation.tabs
