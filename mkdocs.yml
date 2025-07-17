@@ -5,25 +5,17 @@ site_url: https://camshron.github.io/mdsnews/ # Remember to replace 'your-userna
 theme:
   name: material
   font:
-    # Benton Sans is a commercial font. If you have it installed on your system
-    # and users also have it, it might work.
-    # For wider compatibility, consider a visually similar Google Font as a fallback.
-    # Material for MkDocs automatically links to Google Fonts if specified here.
-    text: Benton Sans # Keep if you have a way to serve it, otherwise use a Google Font like 'Open Sans' or 'Roboto'
+    text: Benton Sans
     code: Fira Code
   palette:
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    primary: red
-    accent: red
-    toggle:
-      name: Switch to dark mode
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: red
-    accent: red
-    toggle:
-      name: Switch to light mode
+    - scheme: default
+      primary: red
+      accent: red
+  features:
+    - navigation.tabs
+    - navigation.instant
+    # ... your other features here
+
 
 
   features:
