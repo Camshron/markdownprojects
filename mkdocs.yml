@@ -1,14 +1,37 @@
-site_name: MDSNews 
-site_url: https://your-username.github.io/mdsnews/
+# mkdocs.yml
+site_name: MDSNews
+site_url: https://camshron.github.io/mdsnews/ # Remember to replace 'your-username'
+
 theme:
   name: material
   font:
-    text: Benton Sans
+    # Benton Sans is a commercial font. If you have it installed on your system
+    # and users also have it, it might work.
+    # For wider compatibility, consider a visually similar Google Font as a fallback.
+    # Material for MkDocs automatically links to Google Fonts if specified here.
+    text: Benton Sans # Keep if you have a way to serve it, otherwise use a Google Font like 'Open Sans' or 'Roboto'
     code: Fira Code
+  palette:
+    # Scheme 'slate' is a dark theme, 'default' is light.
+    # We want a light base with crimson accents.
+    - media: "(prefers-color-scheme: light)" # Default light theme
+      scheme: default
+      primary: red    # Material for MkDocs uses named colors. We'll override with CSS.
+      accent: red     # Accent color for links/highlights.
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # Optional dark theme
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-on-outline
+        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.instant
-# Additional features below #
     - navigation.indexes
     - content.code.copy
     - content.tabs.link
@@ -17,18 +40,16 @@ theme:
     - toc.integrate
     - content.tooltips
     - content.footnotes
-
-
-
-
+    - content.action.view # Allows users to view the raw Markdown source
 
 extra_css:
-    - css/wikistyle.css
+  - css/wikistyle.css
+  - https://fonts.googleapis.com/css2?family=Georgia&display=swap # Link to Georgia from Google Fonts
 
 extra:
-  favicon: iusm.ico  
+  favicon: iusm.ico
   version:
-    provider: mike    
+    provider: mike
 
 nav:
   - Home: index.md
@@ -47,9 +68,18 @@ markdown_extensions:
   - footnotes
   - attr_list
   - def_list
+  - pymdownx.highlight # Necessary for code highlighting features
+  - pymdownx.superfences # For advanced code blocks (like diagrams)
+  - pymdownx.snippets # Useful for reusing content
+  - pymdownx.details # For expandable sections
+  - pymdownx.tabbed: # For content tabs
+      alternate_style: true
 
 plugins:
-  - search  
+  - search
   - mike
-  
- 
+  - minify: # Optional: Minify HTML, CSS, JS for faster loading
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      html_optimization: true

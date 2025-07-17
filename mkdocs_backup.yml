@@ -1,0 +1,55 @@
+site_name: MDSNews 
+site_url: https://your-username.github.io/mdsnews/
+theme:
+  name: material
+  font:
+    text: Benton Sans
+    code: Fira Code
+  features:
+    - navigation.tabs
+    - navigation.instant
+# Additional features below #
+    - navigation.indexes
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - navigation.sections
+    - toc.integrate
+    - content.tooltips
+    - content.footnotes
+
+
+
+
+
+extra_css:
+    - css/wikistyle.css
+
+extra:
+  favicon: iusm.ico  
+  version:
+    provider: mike    
+
+nav:
+  - Home: index.md
+  - Applications: applications.md
+  - Access: access.md
+  - Branding Guidelines: branding_guidelines.md
+  - Help: help.md
+  - Newsletter Setup: Newsletterprep.md
+  - Team: team.md
+
+# Added Features #
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - attr_list
+  - def_list
+
+plugins:
+  - search  
+  - mike
+  
+ 
