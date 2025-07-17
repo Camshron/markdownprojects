@@ -14,8 +14,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
-    - navigation.tabs
-    - navigation.instant
     - navigation.indexes
     - content.code.copy
     - content.tabs.link
@@ -64,5 +62,4 @@ plugins:
   - mike
   - minify: # Optional: Minify HTML, CSS, JS for faster loading
       minify_html: true
-  - pdf-export 
     
