@@ -30,7 +30,7 @@
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
->**Exception:** Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+!!! Note _Exception: Events for the calendar. Title case is fine for those, as they are the proper noun names of the events._
 
 **Note:** If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
 “Phase 3: Select Transitions 3 track today”

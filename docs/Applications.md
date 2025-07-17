@@ -1,4 +1,4 @@
-[iusmlogo](iusmlogo.png)
+![iusmlogo](iusmlogo.png)
 
 
 # **Applications used by MD Student News**
