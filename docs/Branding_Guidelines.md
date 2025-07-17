@@ -62,21 +62,7 @@ When using someone’s job title:
 
 ---
 <p style="text-align: left;">
-  <a href="https://medicine.iu.edu/style-guide"
-     style="display: inline-block;
-            padding: 8px 16px;
-            background-color: #990000;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-            border-bottom: 2px solid #660000;
-            transition: all 0.1s ease-in-out;
-            position: relative;"
-     onmousedown="this.style.transform='translateY(2px)'; this.style.boxShadow='0 2px 3px rgba(0,0,0,0.2)'"
-     onmouseup="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.2)'">
-    See the editorial guide for more information
-  </a>
+  <a href="https://medicine.iu.edu/style-guide">See the editorial guide for more information</a>
 </p>
 
 <a href="#top" class="back-to-top">↑ Back to Top</a>
