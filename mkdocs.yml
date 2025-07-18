@@ -42,7 +42,7 @@ nav:
       - Help: help.md
       - Newsletter Setup: Newsletterprep.md
       - Team: team.md
-# - Future Pages:
+  - Operations Technology Onboarding: opstechonboarding.md
 
 # Added Features #
 markdown_extensions:

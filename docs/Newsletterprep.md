@@ -60,7 +60,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
 Send every Tuesday at 3:00 PM ET.
 
-!!! note _Exception_: _Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"_
+!!! note _Exception: Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"_
 
 ### 1. Use the **commercial template** 
 ### 2. Publication List: **Student Events**
