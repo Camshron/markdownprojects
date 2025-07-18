@@ -135,3 +135,8 @@ Once a phone number is assigned, the employee **must complete the 911 Acknowledg
 
 !!! warning "Important: Activation Delayed Until Complete"
     The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
+---
+>_**Disclaimer**_:
+    _This document uses the Benton Sans typeface in accordance with Indiana University branding standards.  
+    For full branding guidelines, please visit the [IU School of Medicine Communications Office Branding Page](https://medicine.iu.edu/brand).  
+    © 2025 Joel R. Smith. All rights reserved._
