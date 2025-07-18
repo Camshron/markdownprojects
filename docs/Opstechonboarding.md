@@ -106,16 +106,15 @@ o	If the employee does not have access, contact htshelp@iu.edu for assistance.--
 
 ### Phone Number Assignment & 911 Acknowledgement
 
-1. Once a phone number is assigned, the employee **must complete the 911 Acknowledgement** before the number will be activated.
-
-### Receive the Phone Number
-
 1. You will be notified by **CAITS** once the new phone number has been assigned.
 
 ### Notify the Employee
 
 1. Send the assigned phone number to the employee.
 2. Instruct the employee to complete the 911 Acknowledgement using one of the methods below:
+
+!!! warning "Important: Activation Delayed Until Complete"
+    The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
 
 **Option A (One.IU portal):**
 
@@ -128,8 +127,6 @@ o	If the employee does not have access, contact htshelp@iu.edu for assistance.--
 
 - Visit the [911 Acknowledgement Form](https://iunetworks-fireform.eas.iu.edu/online/form/authen/e911).
 
-!!! warning "Important: Activation Delayed Until Complete"
-    The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
 ---
 >_**Disclaimer**_:
     _This document uses the Benton Sans typeface in accordance with Indiana University branding standards.  
