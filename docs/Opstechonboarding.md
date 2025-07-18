@@ -1,10 +1,5 @@
 # Operations Technology Onboarding
 
-!!! note Disclaimer:
-    This document uses the Benton Sans typeface in accordance with Indiana University branding standards.  
-    For full branding guidelines, please visit the [IU School of Medicine Communications Office Branding Page](https://medicine.iu.edu/brand).  
-    © 2025 Joel R. Smith. All rights reserved.
-
 ## Purpose
 
 To document the the step-by-step process for setting up a new employee's workspace.
