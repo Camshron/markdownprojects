@@ -128,6 +128,6 @@ Once a phone number is assigned, the employee **must complete the 911 Acknowledg
     The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
 ___
 
-> **Disclaimer:** This document uses the Benton Sans typeface in accordance with Indiana University branding standards. 
+> **Disclaimer:** This document uses the Benton Sans typeface in accordance with Indiana University branding standars.
 > For full branding guidelines, please visit the [IU School of Medicine Communications Office Branding](https://medicine.iu.edu/communications/branding) Page.
 © 2025 Joel R. Smith. All rights reserved.
