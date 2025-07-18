@@ -10,22 +10,22 @@ To document the the step-by-step process for setting up a new employee's workspa
 
 ## Responsibilities
 
-**Role:** Curriculum Data Coordinator
+**Role:** Curriculum Data Coordinator</br>
 **Primary Responsibility:** Oversee and complete all onboarding workspace setup tasks.
 
 ## Definitions
 
 **Onboarding**
-The action or process of integrating a new employee into an organization.
+: The action or process of integrating a new employee into an organization.
 
 **HTS Number**
-The number HTS generated to identify and track employee laptops.
+: The number HTS generated to identify and track employee laptops.
 
 **S/T(Service Tag)**
-The alphanumeric code determines when a laptop warranty expires.
+: The alphanumeric code determines when a laptop warranty expires.
 
 **Eduroam**
-The standard Wi-Fi connection on the Indiana University Campus, IU Indianapolis, Regional Campuses, and many other universities in the United States and worldwide.
+: The standard Wi-Fi connection on the Indiana University Campus, IU Indianapolis, Regional Campuses, and many other universities in the United States and worldwide.
 
 ### Setting Up New Employee Workspace
 
@@ -106,16 +106,16 @@ o	If the employee does not have access, contact htshelp@iu.edu for assistance.--
 
 ### Phone Number Assignment & 911 Acknowledgement
 
-Once a phone number is assigned, the employee **must complete the 911 Acknowledgement** before the number will be activated.
+1. Once a phone number is assigned, the employee **must complete the 911 Acknowledgement** before the number will be activated.
 
-#### 1. Receive the Phone Number
+### Receive the Phone Number
 
-- You will be notified by **CAITS** once the new phone number has been assigned.
+1. You will be notified by **CAITS** once the new phone number has been assigned.
 
-#### 2. Notify the Employee
+### Notify the Employee
 
-- Send the assigned phone number to the employee.
-- Instruct the employee to complete the 911 Acknowledgement using one of the methods below:
+1. Send the assigned phone number to the employee.
+2. Instruct the employee to complete the 911 Acknowledgement using one of the methods below:
 
 **Option A (One.IU portal):**
 
