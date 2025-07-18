@@ -10,7 +10,7 @@ To document the the step-by-step process for setting up a new employee's workspa
 
 ## Responsibilities
 
-**Role:** Curriculum Data Coordinator
+**Role:** Curriculum Data Coordinator<br>
 **Primary Responsibility:** Oversee and complete all onboarding workspace setup tasks.
 
 ## Definitions
@@ -126,7 +126,7 @@ Once a phone number is assigned, the employee **must complete the 911 Acknowledg
 
 !!! warning "Important: Activation Delayed Until Complete"
     The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
-___
+____
 
 > **Disclaimer:** This document uses the Benton Sans typeface in accordance with Indiana University branding standars.
 > For full branding guidelines, please visit the [IU School of Medicine Communications Office Branding](https://medicine.iu.edu/communications/branding) Page.
