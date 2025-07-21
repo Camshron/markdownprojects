@@ -50,14 +50,14 @@ To document the the step-by-step process for setting up a new employee's workspa
 
 ### Assisting New Employees with Initial Log-In
 
-1. **Connect Laptop to Eduroam**
-   - Plug the employee’s laptop into the docking station located in LO 417C (at Joel’s desk).<!--this step is no longer necessary, employees sign into eduroam instead.-->
-2. Initial Log-In Steps
+**Connect Laptop to Eduroam**
+   
+1. Initial Log-In Steps
    - Instruct the employee to:
      - Select the Wi-Fi icon positioned at the bottom right corner of the screen. Log into the eduroam server using their full email address as the username.
      - Enter the password.
      - Return to the main login screen and log in using only their username and password.
-3. Verification
+2. Verification
    - Ensure that the employee has successfully logged into their laptop.
 
 ### Granting Printer Access to New Employees
