@@ -43,7 +43,7 @@ nav:
       - Newsletter Setup: Newsletterprep.md
       - Team: team.md
   - Operations Technology Onboarding: 
-      - Purpose and Definitions: purpose and definitions.md
+      - Purpose and Definitions: purposeanddefinitions.md
       - Workspace Setup: workspace_setup.md
       - Assigning Computers: computer_assigment.md
       - Logging in to new device: loginfornewdevice.md
