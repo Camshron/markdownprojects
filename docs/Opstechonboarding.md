@@ -62,24 +62,19 @@ To document the the step-by-step process for setting up a new employee's workspa
 
 ### Granting Printer Access to New Employees
 
-<!-- This entire section is outdated.  The Merb has new instructions>
-1.	Access the Printer Directory
-o	Click on the Search bar and type Run.
-2.	For Long Hall
-o	Type \\IU-OTA-PRNT01 and press Enter.
-o	In the IU-OTA-PRNT01 window, type 191225-LOMailRoom in the search field (top right) and press Enter.
-o	Double-click on 191225-LOMailRoom.
-3.	For Med Sci
-o	Type \\ ewa-prnp14.ads.iu.edu and press Enter.
-o	 type IN_DMSE_MS122K in the search field (top right) and press Enter.
-o	Double-click on IN_DMSE_MS122K.
-4.	For Main Office – Med Sci
-o	Type \\ewa-prnp14.ads.iu.edu and press Enter.
-o	In the IU-OTA-PRNT01 window, type 206375-MS164 in the search field (top right) and press Enter.
-o	Double-click on 206375-MS164.
-5.	Confirmation of Access
-o	Verify that the employee now has printer access.
-o	If the employee does not have access, contact htshelp@iu.edu for assistance.-->
+
+1.	Access the Printer Directory for the fifth floor of the MERB.
+     - Click on the Search bar and type Run.
+2. Type `\\IU-OTA-PRNT01` and **click** Ok.
+3. In the top-right corner of the window, find the **Search** box labeled **Search in IU-OTA-PRNT01**.  
+    - Click inside the search box.  
+    - Type `191225-HA5003` and press **Enter** on your keyboard.
+4. Select the printer when it pops up.
+5. **Right-Click** on the printer then, **select** open.
+6. Click on the printer tab and **select Set as Default Printer**
+
+!!! note If the employee does not have access, contact htshelp@iu.edu for assistance.
+  
 ### Assigning a Phone Number to a New Employee
 
 1. Access Telecom Services Request
