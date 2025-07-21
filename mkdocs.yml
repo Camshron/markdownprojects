@@ -42,7 +42,14 @@ nav:
       - Help: help.md
       - Newsletter Setup: Newsletterprep.md
       - Team: team.md
-  - Operations Technology Onboarding: Opstechonboarding.md
+  - Operations Technology Onboarding: 
+      - Purpose and Definitions: purpose and definitions.md
+      - Workspace Setup: workspace_setup.md
+      - Assigning Computers: computer_assigment.md
+      - Logging in to new device: loginfornewdevice.md
+      - Printer Setup: printerset.md
+      - Phone Setup: phonesetup.md
+      - 911 Acknowledgement: 911ack.md
 
 # Added Features #
 markdown_extensions:
