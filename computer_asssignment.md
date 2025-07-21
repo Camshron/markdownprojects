@@ -5,4 +5,4 @@
    - Confirm the Service Tag (S/T #) with the new employee.
 
 2. **Update Lifecycle Tracking**
-   - Enter and confirm user and laptop information in the Lifecycle Tracking Guide via the designated platform.
+   - Enter and confirm user and laptop information in the Lifecycle Tracking Guide via the designated platform. 

@@ -9,4 +9,4 @@
    - Speaker
 
 2. **Device Connectivity**  
-   Verify that all devices connect and are operational.
+   Verify that all devices connect and are operational. 

@@ -10,4 +10,4 @@
      - Return to the main login screen and log in using only their username and password.
 
 2. **Verification**
-   - Ensure that the employee has successfully logged into their laptop.
+   - Ensure that the employee has successfully logged into their laptop. 
