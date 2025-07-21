@@ -43,9 +43,9 @@ nav:
       - Newsletter Setup: Newsletterprep.md
       - Team: team.md
   - Operations Technology Onboarding: 
-      - Purpose and Definitions: purposeanddefinitions.md
+      - Purpose and Definitions: purposedef.md
       - Workspace Setup: workspace_setup.md
-      - Assigning Computers: computer_assigment.md
+      - Assigning Computers: compassign.md
       - Logging in to new device: loginfornewdevice.md
       - Printer Setup: printersetup.md
       - Phone Setup: phonesetup.md
