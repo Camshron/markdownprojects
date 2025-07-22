@@ -1,3 +1,5 @@
+<a id="top></a>
+
 # **Newsletter Setup in Salesforce**
 
 ## Accessing Salesforce Folders
@@ -79,5 +81,5 @@ Send every Tuesday at 3:00 PM ET.
 
 - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
 
-<a href="#top" class="back-to-top">↑ Back to Top</a>
+<a href="#top" class="back-to-top">Back to Top</a>
 ---

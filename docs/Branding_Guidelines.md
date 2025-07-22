@@ -1,3 +1,5 @@
+<a id="top></a>
+
 # **Branding & Guidelines**
 
 ## Examples
@@ -65,4 +67,4 @@ When using someone’s job title:
   <a href="https://medicine.iu.edu/style-guide">See the editorial guide for more information</a>
 </p>
 
-<a href="#top" class="back-to-top">↑ Back to Top</a>
+<a href="#top" class="back-to-top">Back to Top</a>
