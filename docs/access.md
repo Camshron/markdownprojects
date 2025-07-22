@@ -112,4 +112,4 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 
 ---
 
-<a href="#top" class="back-to-top">↑ Back to Top</a>
+<a href="#top" class="back-to-top"><strong>Back to Top</strong></a>
