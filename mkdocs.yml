@@ -9,8 +9,8 @@ theme:
     code: Fira Code
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      primary: blue
+      accent: amber
   features:
     - navigation.tabs
     - navigation.instant
@@ -24,8 +24,7 @@ theme:
     - content.footnotes
     - content.action.view # Allows users to view the raw Markdown source
 
-extra_css:
-  - css/wikistyle.css
+
   
 
 extra:
