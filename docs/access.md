@@ -31,6 +31,40 @@ Follow the steps below to organize and manage submissions for the MD Student New
     YYYY-MM-DD_MD Student News
     (Example: 2025-07-22_MD Student News)
 
+## Livewhale Events Calendar
+
+### 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
+
+### 2. Enter event information
+There are fields in the email that will match the fields below.
+
+<div style="display: flex; justify-content: space-between; gap: 2rem;">
+
+<div>
+
+- Title
+- Date & Time
+- Brief Summary
+- Location
+- Details
+- Online Event
+
+</div>
+
+<div>
+
+- Event Type
+- Audience
+- Campus
+- Tags
+- Contact Information
+- Event Cost 
+
+</div>
+</div>
+
+### 3. Click Save
+
 ## Salesforce
 
 To request access to Salesforce Marketing Cloud, follow the steps below:

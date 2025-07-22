@@ -2,6 +2,9 @@
 
 # **Branding & Guidelines**
 
+!!! note: 
+    To learn more about the IU branding guidelines visit the [IU Branding Guide](https://medicine.iu.edu/style-guide)
+
 ## Examples
 
 ### Dates
@@ -62,9 +65,9 @@ When using someone’s job title:
 - Do **not** capitalize it when used **after** their name  
   *Example: Nick McLain, communications specialist, said that…*
 
----
 <p style="text-align: left;">
   <a href="https://medicine.iu.edu/style-guide">See the editorial guide for more information</a>
 </p>
-
-<a href="#top" class="back-to-top">Back to Top</a>
+___
+</br></br>
+<a href="#top" class="back-to-top"><strong>Back to Top</strong></a>
