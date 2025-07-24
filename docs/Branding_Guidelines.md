@@ -3,7 +3,7 @@
 # **Branding & Guidelines**
 
 
-!!!note:
+!!! note:
     To learn more about the IU branding guidelines visit the [IU Branding Guide](https://medicine.iu.edu/style-guide)
 
 ## Examples
