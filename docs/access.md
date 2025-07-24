@@ -1,4 +1,4 @@
-# **Application Setup**
+# **Application Setup - Communications Specialist Edition**
 
 ## Outlook
 
@@ -64,6 +64,10 @@ There are fields in the email that will match the fields below.
 </div>
 
 ### 3. Click Save
+
+## Newsletter Submissions
+
+Go to Sitecore (See directions on accessing Sitecore) or SharePoint. Consult the Communications Specialist on the best place to post the stories
 
 ## Salesforce
 

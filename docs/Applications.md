@@ -8,6 +8,9 @@
 **Salesforce Marketing Cloud** 
 : Program to create and publish newsletters
 
+**Sharepoint**
+: Microsoft-based site to create and publish newsletters
+
 **Sitecore** 
 : Online application where we publish our news items.
 
