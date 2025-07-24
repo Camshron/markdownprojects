@@ -54,11 +54,11 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
+  - pymdownx.admonition
   - admonition
   - footnotes
   - attr_list
   - def_list
-  - pymdownx.admonition
   - pymdownx.highlight # Necessary for code highlighting features
   - pymdownx.superfences # For advanced code blocks (like diagrams)
   - pymdownx.snippets # Useful for reusing content
