@@ -54,7 +54,7 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
-  - pymdownx.admonition
+  - admonition
   - footnotes
   - attr_list
   - def_list
