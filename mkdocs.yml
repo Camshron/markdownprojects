@@ -55,6 +55,7 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
+  - pymdownx.admonition:
   - footnotes
   - attr_list
   - def_list
@@ -62,6 +63,7 @@ markdown_extensions:
   - pymdownx.superfences # For advanced code blocks (like diagrams)
   - pymdownx.snippets # Useful for reusing content
   - pymdownx.details # For expandable sections
+  - pymdownx.admonition: #
   - pymdownx.tabbed: # For content tabs
       alternate_style: true
 
