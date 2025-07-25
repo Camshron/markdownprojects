@@ -36,18 +36,18 @@ extra:
 nav:
   - Home: index.md
   - MDS News Docs: 
-     - Application Setup:
+    - Application Setup:
         - Outlook: outlook.md
       #  - Livewhale:
       #  - Sitecore:
       #  - Sharepoint:
       #   - Salesforce:
-      - Applications: applications.md
-      - Access: access.md
-      - Branding Guidelines: branding_guidelines.md
-      - Help: help.md
-      - Newsletter Setup: Newsletterprep.md
-      - Team: team.md
+    #- Applications: applications.md
+    #- Access: access.md
+    #- Branding Guidelines: branding_guidelines.md
+    #- Help: help.md
+    #- Newsletter Setup: Newsletterprep.md
+    #- Team: team.md
   - Operations Technology Onboarding: 
       - Purpose and Definitions: purposedef.md
       - Workspace Setup: workspace_setup.md
