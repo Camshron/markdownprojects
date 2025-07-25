@@ -36,6 +36,12 @@ extra:
 nav:
   - Home: index.md
   - MDS News Docs: 
+     - Application Setup:
+        - Outlook: outlook.md
+      #  - Livewhale:
+      #  - Sitecore:
+      #  - Sharepoint:
+      #   - Salesforce:
       - Applications: applications.md
       - Access: access.md
       - Branding Guidelines: branding_guidelines.md
