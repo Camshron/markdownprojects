@@ -35,9 +35,9 @@ extra:
 
 nav:
   - Home: index.md
-  - MDS News Docs: 
-    - Application Setup:
-        - Outlook: outlook.md
+  - MDS News Docs:
+      - Application Setup:
+          - Outlook: outlook.md
       #  - Livewhale:
       #  - Sitecore:
       #  - Sharepoint:
