@@ -82,4 +82,3 @@ plugins:
   - redirects
   - exclude:
       - README.md # Exclude the README from the navigation
-  - 
