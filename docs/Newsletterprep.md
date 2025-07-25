@@ -1,6 +1,6 @@
 <a id="top></a>
 
-# **Newsletter Setup in Salesforce**
+# Preparing the Newsletter
 
 ## Accessing Salesforce Folders
 
@@ -24,7 +24,7 @@
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
 ### 1. Stakeholders Version (One email)
-    
+
 - **Very important:** Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the **commercial template**.
 
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
@@ -49,7 +49,6 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
   - Publication list: **MD Student Events**
   
-
 ### 3. LOA Version (One Email)
 
 - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
@@ -65,6 +64,7 @@ Send every Tuesday at 3:00 PM ET.
 !!! important _Exception: Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"_
 
 ### 1. Use the **commercial template** 
+
 ### 2. Publication List: **Student Events**
 
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`

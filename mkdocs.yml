@@ -28,9 +28,10 @@ theme:
   
 
 extra:
-  favicon: iusm.ico
   version:
     provider: mike
+
+
 
 nav:
   - Home: index.md
@@ -70,4 +71,15 @@ plugins:
   - mike
   - minify: # Optional: Minify HTML, CSS, JS for faster loading
       minify_html: true
-    
+  - git-revision-date:
+      enabled: true
+  - git-authors:
+      enabled: true
+  - section-index:
+      enabled: true
+      sections:
+        - title: "MDS News Docs"
+  - redirects
+  - exclude:
+      - README.md # Exclude the README from the navigation
+  - 
