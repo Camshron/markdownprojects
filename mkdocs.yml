@@ -81,4 +81,5 @@ plugins:
         - title: "MDS News Docs"
   - redirects
   - exclude:
-      - README.md # Exclude the README from the navigation
+      glob:
+        - opstechonboarding.md # Exclude the README from the navigation
