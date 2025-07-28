@@ -43,8 +43,7 @@ nav:
           - Outlook: Outlook.md
           - Livewhale Events Calendar: livewhaleeventscalendar.md
           - Sitecore: Sitecore.md
-      #  - Sitecore:
-      #  - Sharepoint:
+          - Sharepoint: Sharepoint.md
       #   - Salesforce:
     #- Applications: applications.md
     #- Access: access.md
