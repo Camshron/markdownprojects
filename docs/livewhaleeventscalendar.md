@@ -1,8 +1,9 @@
-## Livewhale Events Calendar
+# Livewhale Events Calendar
 
-### 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
+## 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
 
 ### 2. Enter event information
+
 There are fields in the email that will match the fields below.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2rem;">
