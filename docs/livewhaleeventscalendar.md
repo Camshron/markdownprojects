@@ -2,7 +2,7 @@
 
 ## 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
 
-### 2. Enter event information
+## 2. Enter event information
 
 There are fields in the email that will match the fields below.
 
@@ -31,4 +31,4 @@ There are fields in the email that will match the fields below.
 </div>
 </div>
 
-### 3. Click Save
+## 3. Click Save
