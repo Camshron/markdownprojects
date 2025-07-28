@@ -38,7 +38,7 @@ nav:
   - MDS News Docs:
       - Application Setup:
           - Outlook: Outlook.md
-      #  - Livewhale:
+          - Livewhale Events Calendar: livewhaleeventscalendar.md
       #  - Sitecore:
       #  - Sharepoint:
       #   - Salesforce:
