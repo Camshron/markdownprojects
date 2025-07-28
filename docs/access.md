@@ -1,38 +1,6 @@
 # **Application Setup - Communications Specialist Edition**
 
-## Livewhale Events Calendar
 
-### 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
-
-### 2. Enter event information
-There are fields in the email that will match the fields below.
-
-<div style="display: flex; justify-content: space-between; gap: 2rem;">
-
-<div>
-
-- Title
-- Date & Time
-- Brief Summary
-- Location
-- Details
-- Online Event
-
-</div>
-
-<div>
-
-- Event Type
-- Audience
-- Campus
-- Tags
-- Contact Information
-- Event Cost 
-
-</div>
-</div>
-
-### 3. Click Save
 
 ## Newsletter Submissions
 
