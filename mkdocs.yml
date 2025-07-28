@@ -30,6 +30,9 @@ theme:
 extra:
   version:
     provider: mike
+    alias: true
+    default:
+      - Latest
 
 
 
