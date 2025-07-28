@@ -39,6 +39,7 @@ nav:
       - Application Setup:
           - Outlook: Outlook.md
           - Livewhale Events Calendar: livewhaleeventscalendar.md
+          - Sitecore: Sitecore.md
       #  - Sitecore:
       #  - Sharepoint:
       #   - Salesforce:
