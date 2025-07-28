@@ -4,29 +4,7 @@
 
 ## Newsletter Submissions
 
-### In Sitecore
-- **Click**: 
 
-```Content Editor > IU > IU-SOM > Home > Blog > md-student-news > 2024 > Blog Article```
-
-- **Enter** the Article Title (avoid ;, :, and -)
-
-- **Write** a short teaser
-
-- **Paste** in the content (from a formatting-stripped document like Notepad)
-
-- **Make** minor edits as needed; major edits should be handled by the Communications Specialist
-
-- **Add** the following Metadata:
-
-    >**Author:** Medical Student Education
-    >**Categories:** MD Student News
-    >**Tags:* MD Students, All Campuses
-
-- Save the page
-
-- Publish the page.
-  - You may need to wait on Strategic Communications approval for items to get published
 
 ## Salesforce
 
