@@ -100,7 +100,7 @@
       border-radius: 3px 3px 0 0;
       margin: -1em -1em 1em -1em;
     ">
-      <strong>Note:</strong>
+      <strong>Note</strong>
     </div>
     If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
     “Phase 3: Select Transitions 3 track today”
@@ -127,8 +127,6 @@ Nick McLain, MD, PhD.
 - On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”
 
 When using someone’s job title:
-
-
 
 <div style="
   border-left: 4px solid #673ab7;
@@ -157,7 +155,7 @@ When using someone’s job title:
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 400px;
   max-height: 100px;
-"> <strong>Example:</strong><br>
+"> <strong>Example</strong><br>
   
    Nick McLain, communications specialist, said that…
 </div>
