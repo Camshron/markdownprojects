@@ -39,13 +39,13 @@ extra:
 nav:
   - Home: index.md
   - MDS News Docs:
+      - Branding & Guidelines: branding_guidelines.md
       - Application Setup:
           - Outlook: Outlook.md
           - Livewhale Events Calendar: livewhaleeventscalendar.md
           - Sitecore: Sitecore.md
           - Sharepoint: Sharepoint.md
-      - Branding & Guidelines: branding_guidelines.md
-      #   - Salesforce:
+    
     #- Applications: applications.md
     #- Access: access.md
     #- Branding Guidelines: branding_guidelines.md
