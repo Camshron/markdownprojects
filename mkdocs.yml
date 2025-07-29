@@ -44,6 +44,7 @@ nav:
           - Livewhale Events Calendar: livewhaleeventscalendar.md
           - Sitecore: Sitecore.md
           - Sharepoint: Sharepoint.md
+      - Branding & Guidelines: branding_guidelines.md
       #   - Salesforce:
     #- Applications: applications.md
     #- Access: access.md
@@ -64,10 +65,10 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
-  - admonition
   - footnotes
   - attr_list
   - def_list
+  - admonition
   - pymdownx.highlight # Necessary for code highlighting features
   - pymdownx.superfences # For advanced code blocks (like diagrams)
   - pymdownx.snippets # Useful for reusing content

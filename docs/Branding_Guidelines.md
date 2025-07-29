@@ -1,10 +1,31 @@
-<a id="top></a>
+
 
 # **Branding & Guidelines**
 
 
-!!! note:
-    To learn more about the IU branding guidelines visit the [IU Branding Guide](https://medicine.iu.edu/style-guide)
+<div style="
+  border-left: 4px solid #2196f3;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+">
+  <div style="
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2196f3;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    <strong>Note:</strong>
+  </div>
+  To learn more about the IU branding guidelines visit the <a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener nonreferrer">Indiana University Branding Guide</a>
+  
+</div>
+
+
 
 ## Examples
 
@@ -36,10 +57,50 @@
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
-!!! Note _Exception: Events for the calendar. Title case is fine for those, as they are the proper noun names of the events._
-
-**Note:** If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
-“Phase 3: Select Transitions 3 track today”
+<div style="
+  border-left: 4px solid #fbc02d;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+">
+  <div style="
+    font-weight: bold;
+    color: #000000;
+    background-color: #fbc02d;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    Exception
+  </div>
+  Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+</div>
+</br>
+<div style="
+  border-left: 4px solid #2196f3;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+">
+  <div style="
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2196f3;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    <strong>Note:</strong>
+  </div>
+   If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
+“Phase 3: Select Transitions 3 track today”</a>
+  
+</div>
+</br>
 
 ### Call to Action
 
@@ -64,11 +125,22 @@ When using someone’s job title:
   *Example: Communications Specialist Nick McLain*
 </br>
 - Do **not** capitalize it when used **after** their name  
-  *Example: Nick McLain, communications specialist, said that…*
+<div style="
+  border-left: 4px solid #673ab7;
+  background-color: #f9f9f9;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+">
+  <strong>Example:</strong><br>
+  
+   Nick McLain, communications specialist, said that…
+</div>
+
+ 
 
 <p style="text-align: left;">
   <a href="https://medicine.iu.edu/style-guide">See the editorial guide for more information</a>
 </p>
 ___
-</br></br>
-<a href="#top" class="back-to-top"><strong>Back to Top</strong></a>
