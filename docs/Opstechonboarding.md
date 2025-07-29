@@ -123,7 +123,28 @@ To document the the step-by-step process for setting up a new employee's workspa
 - Visit the [911 Acknowledgement Form](https://iunetworks-fireform.eas.iu.edu/online/form/authen/e911).
 
 ---
->_**Disclaimer**_:
-    _This document uses the Benton Sans typeface in accordance with Indiana University branding standards.  
-    For full branding guidelines, please visit the [IU School of Medicine Communications Office Branding Page](https://medicine.iu.edu/brand).  
-    © 2025 Joel R. Smith. All rights reserved._
+
+
+
+<div style="
+  border-left: 4px solid #9e9e9e;
+  background-color: #f9f9f9;
+  padding: 1em;
+  margin: 1em auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  max-width: 700px;
+">
+  <div style="
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #757575;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    Disclaimer
+  </div>
+  This document uses the Benton Sans typeface in accordance with Indiana University branding standards. For full branding guidelines, please visit the <a href="https://medicine.iu.edu/brand>IU School of Medicine Communications Office Branding Page">Indiana University Branding Page.</a> 
+    © 2025 Joel R. Smith. All rights reserved.
+</div>

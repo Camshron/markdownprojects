@@ -34,7 +34,7 @@
 
 - Set schedule for 5:15 PM on the day of the newsletter release.
 
-## 11. Select the relevant class year(s) for this story
+## 11. Select the relevant class year(s) 
 
 ## 12. Click save and close
 
