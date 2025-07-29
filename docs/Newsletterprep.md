@@ -1,21 +1,21 @@
-<a id="top></a>
+
 
 # Preparing the Newsletter
 
 ## Accessing Salesforce Folders
 
-### 1.  Navigate to Email Studio:
+### 1.  Navigate to Email Studio
 
 - Click **Email Studio** in the main menu.
 - Select **Content**.
 - Open the folder labeled with the upcoming newsletter date.
 
-### 2. Edit the Newsletter Draft:
+### 2. Edit the Newsletter Draft
 
 - Open the newsletter document in the folder.
 - Begin editing as needed.
 
-### 3. Insert Content:
+### 3. Insert Content
 
 - Add the approved submissions from the editorial calendar into the newsletter draft.
 
@@ -25,15 +25,56 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
 ### 1. Stakeholders Version (One email)
 
-- **Very important:** Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the **commercial template**.
+<div style="
+  border-left: 4px solid #d32f2f;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  max-width: 700px;
+">
+  <div style="
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #d32f2f;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    Important  !!!
+  </div>
+  Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the <strong>commercial template</strong>.
+</div>
 
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
-- When it asks for a publication list, put in **MD Student News Stakeholders**.
+
+Publication List: **MD Student News Stakeholders**.
 
 ### 2. Phase-Specific Versions (Four Emails)
+<div style="
+  border-left: 4px solid #d32f2f;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  max-width: 700px;
+">
+  <div style="
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #d32f2f;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    Important  !!!
+  </div>
+  We don’t want students to unsubscribe, so these emails should use the <strong>transactional template</strong>.
+</div>
 
-- **Very important:** We don’t want students to unsubscribe, so these emails should use the **transactional template**.
 
   - **Phase 1 Year 1:**  
       `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
@@ -47,7 +88,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
   - **Phase 3:**  
       `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
 
-  - Publication list: **MD Student Events**
+Publication list: **MD Student Events**
   
 ### 3. LOA Version (One Email)
 
@@ -55,17 +96,36 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
   - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
 
-  - When it asks for a publication list, put in **MD Student News Students**.
+Publication List: **MD Student News Students**.
 
 ## Weekly Events
 
 Send every Tuesday at 3:00 PM ET.
+<div style="
+  border-left: 4px solid #fbc02d;
+  background-color: #ffffff;
+  padding: 1em;
+  margin: 1em 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  max-width: 700px;
+">
+  <div style="
+    font-weight: bold;
+    color: #000000;
+    background-color: #fbc02d;
+    padding: 0.3em 0.6em;
+    border-radius: 3px 3px 0 0;
+    margin: -1em -1em 1em -1em;
+  ">
+    Exception
+  </div>
+  Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"
+</div>
 
-!!! important _Exception: Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"_
+Template: **Commercial template** 
 
-### 1. Use the **commercial template** 
-
-### 2. Publication List: **Student Events**
+Publication List: **Student Events**
 
 - `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
   
@@ -83,4 +143,3 @@ Send every Tuesday at 3:00 PM ET.
 
 
 ---
-<a href="#top" class="back-to-top"><strong>Back to Top</strong></a>

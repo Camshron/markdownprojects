@@ -10,6 +10,7 @@
   margin: 1em 0;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   border-radius: 4px;
+  max-width: 400px
 ">
   <div style="
     font-weight: bold;
@@ -64,6 +65,7 @@
   margin: 1em 0;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   border-radius: 4px;
+  max-width: 400px;
 ">
   <div style="
     font-weight: bold;
@@ -85,6 +87,7 @@
   margin: 1em 0;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   border-radius: 4px;
+  max-width: 400px;
 ">
   <div style="
     font-weight: bold;
@@ -121,10 +124,8 @@ Nick McLain, MD, PhD.
 
 When using someone’s job title:
 
-- Capitalize it when used **before** their name  
-  *Example: Communications Specialist Nick McLain*
-</br>
-- Do **not** capitalize it when used **after** their name  
+
+
 <div style="
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
@@ -132,15 +133,28 @@ When using someone’s job title:
   margin: 1em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  max-width: 400px
 ">
-  <strong>Example:</strong><br>
+  <strong>Example:</strong>
+  
+  Communications Specialist Nick McLain
+</div>
+
+<ul>
+
+<li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name</li>  
+</ul>
+<div style="
+  border-left: 4px solid #673ab7;
+  background-color: #f9f9f9;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  max-width: 400px;
+  max-height: 100px;
+"> <strong>Example:</strong><br>
   
    Nick McLain, communications specialist, said that…
 </div>
-
- 
-
-<p style="text-align: left;">
-  <a href="https://medicine.iu.edu/style-guide">See the editorial guide for more information</a>
-</p>
 ___
