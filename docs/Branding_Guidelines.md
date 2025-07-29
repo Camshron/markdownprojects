@@ -58,51 +58,55 @@
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
-<div style="
-  border-left: 4px solid #fbc02d;
-  background-color: #ffffff;
-  padding: 1em;
-  margin: 1em 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  border-radius: 4px;
-  max-width: 400px;
-">
+<div style="display: flex; gap: 1em; flex-wrap: wrap;">
   <div style="
-    font-weight: bold;
-    color: #000000;
-    background-color: #fbc02d;
-    padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+    border-left: 4px solid #fbc02d;
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 1em 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 400px;
+    flex: 1;
   ">
-    Exception
+    <div style="
+      font-weight: bold;
+      color: #000000;
+      background-color: #fbc02d;
+      padding: 0.3em 0.6em;
+      border-radius: 3px 3px 0 0;
+      margin: -1em -1em 1em -1em;
+    ">
+      Exception
+    </div>
+    Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
   </div>
-  Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
-</div>
-</br>
-<div style="
-  border-left: 4px solid #2196f3;
-  background-color: #ffffff;
-  padding: 1em;
-  margin: 1em 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  border-radius: 4px;
-  max-width: 400px;
-">
+
   <div style="
-    font-weight: bold;
-    color: #ffffff;
-    background-color: #2196f3;
-    padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+    border-left: 4px solid #2196f3;
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 1em 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 400px;
+    flex: 1;
   ">
-    <strong>Note:</strong>
+    <div style="
+      font-weight: bold;
+      color: #ffffff;
+      background-color: #2196f3;
+      padding: 0.3em 0.6em;
+      border-radius: 3px 3px 0 0;
+      margin: -1em -1em 1em -1em;
+    ">
+      <strong>Note:</strong>
+    </div>
+    If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
+    “Phase 3: Select Transitions 3 track today”
   </div>
-   If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
-“Phase 3: Select Transitions 3 track today”</a>
-  
 </div>
+
 </br>
 
 ### Call to Action
