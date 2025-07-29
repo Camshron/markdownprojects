@@ -39,7 +39,8 @@ extra:
 nav:
   - Home: index.md
   - MDS News Docs:
-      - Branding & Guidelines: branding_guidelines.md
+      - Branding & Guidelines: 
+          - Examples: branding_guidelines.md
       - Application Setup:
           - Outlook: Outlook.md
           - Livewhale Events Calendar: livewhaleeventscalendar.md
