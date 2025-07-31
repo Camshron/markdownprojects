@@ -8,7 +8,7 @@
 
 - Avoid:  
   
-> ;  : and -
+  -  ;  : and -
 
 ## 3. Write a short teaser.
 
@@ -22,9 +22,9 @@
 
 ## 6. Add the following Metadata.
 
->**Author:** Medical Student Education
->**Categories:** MD Student News
->**Tags**: MD Students, All Campuses
+- **Author:** Medical Student Education
+- **Categories:** MD Student News
+- **Tags**: MD Students, All Campuses
 
 ## 7. Save the page.
 
