@@ -6,9 +6,15 @@
 
 There are fields in the email that will match the fields below.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2rem;">
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: auto;
+">
 
-  <div style="flex: 1 1 45%;">
+  <div>
     <ul>
       <li>Title</li>
       <li>Date & Time</li>
@@ -19,7 +25,7 @@ There are fields in the email that will match the fields below.
     </ul>
   </div>
 
-  <div style="flex: 1 1 45%;">
+  <div>
     <ul>
       <li>Event Type</li>
       <li>Audience</li>
