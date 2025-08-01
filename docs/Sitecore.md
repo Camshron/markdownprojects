@@ -2,7 +2,7 @@
 
 ## 1. Click through the following:
 
-<div style="max-width: 300px; max-height:200px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+<div style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
 <pre>
 ├─> IU 
 │  └─> IU-SOM 
