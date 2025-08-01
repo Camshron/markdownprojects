@@ -6,9 +6,7 @@
 
 ## 2. Enter the Article Title. 
 
-- Avoid:  
-  
-  -  ;  : and -
+- Avoid using punctionation such as   **;** ,  **:**, and **-**
 
 ## 3. Write a short teaser.
 
