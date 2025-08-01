@@ -1,16 +1,18 @@
 # In Sitecore
 
 ## 1. Click through the following:
-```plaintext
 
- ├─> IU 
- │  └─> IU-SOM 
- │     └─> Home 
- │        └─> Blog 
- │           └─> md-student-news 
- │              └─> 2025 
- │                 └─> Blog Article 
-```
+<div style="max-width: 300px; max-height:200px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+<pre>
+├─> IU 
+│  └─> IU-SOM 
+│     └─> Home 
+│        └─> Blog 
+│           └─> md-student-news 
+│              └─> 2025 
+│                 └─> Blog Article
+</pre>
+</div>
 
 ## 2. Enter the Article Title.
 
