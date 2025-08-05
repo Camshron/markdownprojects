@@ -1,32 +1,26 @@
 
-
 # **Branding & Guidelines**
-
-
-<div style="
-  border-left: 4px solid #2196f3;
-  background-color: #ffffff;
-  padding: 1em;
-  margin: 1em 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  border-radius: 4px;
-  max-width: 400px
+<fieldset style ="
+border-left: 4px solid #2196f3;
+background-color: #ffffff;
+padding: 1em;
+margin-left: 2em 0;
+box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+border-radius: 4px;
+max-width: 700px;
+font-size: 0.95em;
 ">
-  <div style="
-    font-weight: bold;
-    color: #ffffff;
-    background-color: #2196f3;
-    padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+  <legend style="
+  font-weight: bold;
+  color: #000000;
+  background-color: #2196f3;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
   ">
-    <strong>Note:</strong>
-  </div>
-  To learn more about the IU branding guidelines visit the <a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener nonreferrer">Indiana University Branding Guide</a>
-  
-</div>
-
-
+  Note
+  </legend>
+  To learn more about the IU branding guidelines vist the<a href "https://medicine.iu.edu/style-guide" target="_blank" rel="noopener nonreferrer"> Indiana University Branding Guide</a>
+  </fieldset>
 
 ## Examples
 
@@ -58,55 +52,57 @@
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
-<div style="display: flex; gap: 1em; flex-wrap: wrap;">
-  <div style="
-    border-left: 4px solid #fbc02d;
-    background-color: #ffffff;
-    padding: 1em;
-    margin: 1em 0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    border-radius: 4px;
-    max-width: 400px;
-    flex: 1;
+<fieldset style ="
+border-left: 4px solid #fbc02d;
+background-color: #ffffff;
+padding: 1em;
+margin-left: 2em 0;
+box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+border-radius: 4px;
+max-width: 700px;
+font-size: 0.95em;
+">
+  <legend style="
+  font-weight: bold;
+  color: #000000;
+  background-color: #fbc02d;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
   ">
-    <div style="
-      font-weight: bold;
-      color: #000000;
-      background-color: #fbc02d;
-      padding: 0.3em 0.6em;
-      border-radius: 3px 3px 0 0;
-      margin: -1em -1em 1em -1em;
-    ">
-      Exception
-    </div>
-    Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
-  </div>
+  Exception
+  </legend>
+  Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+  </fieldset>
 
-  <div style="
-    border-left: 4px solid #2196f3;
-    background-color: #ffffff;
-    padding: 1em;
-    margin: 1em 0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    border-radius: 4px;
-    max-width: 400px;
-    flex: 1;
+
+<fieldset style ="
+border-left: 4px solid #2196f3;
+background-color: #ffffff;
+padding: 1em;
+margin-left: 2em 0;
+box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+border-radius: 4px;
+max-width: 700px;
+font-size: 0.95em;
+">
+  <legend style="
+  font-weight: bold;
+  color: #000000;
+  background-color: #2196f3;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
   ">
-    <div style="
-      font-weight: bold;
-      color: #ffffff;
-      background-color: #2196f3;
-      padding: 0.3em 0.6em;
-      border-radius: 3px 3px 0 0;
-      margin: -1em -1em 1em -1em;
-    ">
-      <strong>Note</strong>
-    </div>
-    If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
-    “Phase 3: Select Transitions 3 track today”
+  Note
+  </legend>
+  If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
+    <strong>“Phase 3: Select Transitions 3 track today”</strong>
   </div>
-</div>
+  </fieldset>
 
+
+
+
+  
 </br>
 
 ### Call to Action
@@ -132,7 +128,7 @@ When using someone’s job title:
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
   padding: 1em;
-  margin: 1em 0;
+  margin-left: 2em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 400px
@@ -150,7 +146,7 @@ When using someone’s job title:
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
   padding: 1em;
-  margin: 1em 0;
+  margin-left: 2em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 400px;
