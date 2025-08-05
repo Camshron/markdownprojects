@@ -21,7 +21,7 @@
 
 Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
-### 1. Stakeholders Version (One email)
+### Stakeholders Version (One email)
 
 <div style="
   border-left: 4px solid #d32f2f;
@@ -64,7 +64,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
 Publication List: **MD Student News Stakeholders**.
 
-### 2. Phase-Specific Versions (Four Emails)
+### Phase-Specific Versions (Four Emails)
 <div style="
   border-left: 4px solid #d32f2f;
   background-color: #ffffff;
@@ -136,7 +136,7 @@ Publication List: **MD Student News Stakeholders**.
 
 Publication list: **MD Student Events**
   
-### 3. LOA Version (One Email)
+### LOA Version (One Email)
 
 - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
 
