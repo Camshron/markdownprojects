@@ -2,78 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://camshron.github.io/markdownprojects/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/911ack/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/Newsletterprep/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/Newsletterprep/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/Outlook/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/Opstechonboarding/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/Sharepoint/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/Outlook/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/Sitecore/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/Sharepoint/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/access/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/Sitecore/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/applications/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/access/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/branding_guidelines/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/applications/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/emailssalesforce/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/branding_guidelines/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/help/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/compassign/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/livewhaleeventscalendar/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/help/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/mds_news/team/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/livewhaleeventscalendar/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/911ack/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/loginfornewdevice/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/Opstechonboarding/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/phonesetup/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/compassign/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/printersetup/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/loginfornewdevice/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/purposedef/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/phonesetup/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/team/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/printersetup/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
     <url>
-         <loc>https://camshron.github.io/markdownprojects/workspace_setup/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/purposedef/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://camshron.github.io/markdownprojects/ops_tech/workspace_setup/</loc>
+         <lastmod>2025-08-05</lastmod>
     </url>
 </urlset>

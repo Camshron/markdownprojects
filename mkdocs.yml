@@ -37,10 +37,10 @@ nav:
   - Home: index.md
   - MDS News Docs:
       - Newsletter Setup by Application:
-          - Outlook: Outlook.md
-          - Livewhale Events Calendar: livewhaleeventscalendar.md
-          - Sitecore: Sitecore.md
-          - Sharepoint: Sharepoint.md
+          - Outlook: mds_news/outlook.md
+          - Livewhale Events Calendar: mds_news/livewhaleeventscalendar.md
+          - Sitecore: mds_news/Sitecore.md
+          - Sharepoint: mds_news/Sharepoint.md
       #  - Sitecore:
       #  - Sharepoint:
       #  - Salesforce:
@@ -51,13 +51,13 @@ nav:
     #- Newsletter Setup: Newsletterprep.md
     #- Team: team.md
   - Operations Technology Onboarding: 
-      - Purpose and Definitions: purposedef.md
-      - Workspace Setup: workspace_setup.md
-      - Assigning Computers: compassign.md
-      - Logging in to new device: loginfornewdevice.md
-      - Printer Setup: printersetup.md
-      - Phone Setup: phonesetup.md
-      - 911 Acknowledgement: 911ack.md
+      - Purpose and Definitions: ops_tech/purposedef.md
+      - Workspace Setup: ops_tech/workspace_setup.md
+      - Assigning Computers: ops_tech/compassign.md
+      - Logging in to new device: ops_tech/loginfornewdevice.md
+      - Printer Setup:ops_tech/printersetup.md
+      - Phone Setup: ops_tech/phonesetup.md
+      - 911 Acknowledgement: ops_tech/911ack.md
 
 # Added Features #
 markdown_extensions:
