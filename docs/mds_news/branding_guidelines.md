@@ -159,7 +159,6 @@ font-size: 0.95em;
 <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name</li>  
 </ul>
 
-
 <fieldset style ="
 border-left: 4px solid #673ab7;
 background-color: #ffffff;
@@ -180,7 +179,6 @@ font-size: 0.95em;
   Example
   </legend>
     Nick McLain, communications specialist, said that…
-  </div>
   </fieldset>
 
 
