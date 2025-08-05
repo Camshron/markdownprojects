@@ -23,29 +23,27 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 
 ### Stakeholders Version (One email)
 
-<div style="
-  border-left: 4px solid #d32f2f;
+<fieldset style="
+  border-left: 4px solid #fbc02d;
   background-color: #ffffff;
   padding: 1em;
   margin: 1em 0;
-  border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
   max-width: 700px;
-  width: 100%;
-  box-sizing: border-box;
+  font-size: 0.95em;
 ">
-  <div style="
+  <legend style="
     font-weight: bold;
-    color: #ffffff;
-    background-color: #d32f2f;
+    color: #000000;
+    background-color: #fbc02d;
     padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+    border-radius: 3px;
   ">
-    Important !!!
-  </div>
-  Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the <strong>commercial template</strong>.
-</div>
+    Exception
+  </legend>
+  Not sent between Christmas and New Year and reduced number of emails between June and July due to lack of entries.
+</fieldset>
 <br>
 
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
@@ -65,7 +63,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
 Publication List: **MD Student News Stakeholders**.
 
 ### Phase-Specific Versions (Four Emails)
-<div style="
+<fieldset style="
   border-left: 4px solid #d32f2f;
   background-color: #ffffff;
   padding: 1em;
@@ -75,19 +73,19 @@ Publication List: **MD Student News Stakeholders**.
   max-width: 700px;
   width: 100%;
   box-sizing: border-box;
+  font-size: 0.95em;
 ">
-  <div style="
+  <legend style="
     font-weight: bold;
     color: #ffffff;
     background-color: #d32f2f;
     padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+    border-radius: 3px;
   ">
-    Important  !!!
-  </div>
+    Important !!!
+  </legend>
   We don’t want students to unsubscribe, so these emails should use the <strong>transactional template</strong>.
-</div>
+</fieldset>
 
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Phase 1 Year 1 Data Extension</legend>
@@ -147,7 +145,7 @@ Publication List: **MD Student News Students**.
 ## Weekly Events
 
 Send every Tuesday at 3:00 PM ET.
-<div style="
+<fieldset style="
   border-left: 4px solid #fbc02d;
   background-color: #ffffff;
   padding: 1em;
@@ -155,19 +153,19 @@ Send every Tuesday at 3:00 PM ET.
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   border-radius: 4px;
   max-width: 700px;
+  font-size: 0.95em;
 ">
-  <div style="
+  <legend style="
     font-weight: bold;
     color: #000000;
     background-color: #fbc02d;
     padding: 0.3em 0.6em;
-    border-radius: 3px 3px 0 0;
-    margin: -1em -1em 1em -1em;
+    border-radius: 3px;
   ">
     Exception
-  </div>
-  Not sent between Christmas and New Year and reduced number of emails between June and July due  to lack of entries"
-</div>
+  </legend>
+  Not sent between Christmas and New Year and reduced number of emails between June and July due to lack of entries.
+</fieldset>
 
 Template: **Commercial template** 
 
