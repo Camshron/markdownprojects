@@ -27,7 +27,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
   border-left: 4px solid #d32f2f;
   background-color: #ffffff;
   padding: 1em;
-  margin: 1em auto;
+  margin: 1em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 700px;
@@ -40,11 +40,12 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
     border-radius: 3px 3px 0 0;
     margin: -1em -1em 1em -1em;
   ">
-    Important  !!!
+    Important !!!
   </div>
   Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the <strong>commercial template</strong>.
 </div>
-
+</br
+>
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Faculty & Staff Data Extensions</legend>
 
@@ -66,7 +67,7 @@ Publication List: **MD Student News Stakeholders**.
   border-left: 4px solid #d32f2f;
   background-color: #ffffff;
   padding: 1em;
-  margin: 1em auto;
+  margin: 1em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 700px;
