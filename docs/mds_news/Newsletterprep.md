@@ -31,6 +31,8 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 700px;
+  width: 100%;
+  box-sizing: border-box;
 ">
   <div style="
     font-weight: bold;
@@ -44,8 +46,8 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
   </div>
   Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the <strong>commercial template</strong>.
 </div>
-</br
->
+<br>
+
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Faculty & Staff Data Extensions</legend>
 
@@ -58,7 +60,7 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
            |Faculty and Staff Subscribe Form-Student Newsletter
 </pre>
 </fieldset> 
-</br>
+<br>
 
 Publication List: **MD Student News Stakeholders**.
 
@@ -71,6 +73,8 @@ Publication List: **MD Student News Stakeholders**.
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 700px;
+  width: 100%;
+  box-sizing: border-box;
 ">
   <div style="
     font-weight: bold;
@@ -95,7 +99,7 @@ Publication List: **MD Student News Stakeholders**.
 |          |P1Y1_Class of 2029_0725
 </pre>
 </fieldset>
-</br>
+<br>
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Phase 1 Year 2 Data Extension</legend>
   <pre>
@@ -106,7 +110,7 @@ Publication List: **MD Student News Stakeholders**.
 |          |P1Y2_Class of 2028_072825
 </pre>
 </fieldset>
-</br>
+<br>
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Phase 2</legend>
   <pre>
@@ -117,7 +121,7 @@ Publication List: **MD Student News Stakeholders**.
 |          |P1Y2_Class of 2027_072925
 </pre>
 </fieldset>
-</br>
+<br>
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Phase 3</legend>
   <pre>
@@ -128,7 +132,7 @@ Publication List: **MD Student News Stakeholders**.
 |          |P1Y2_Class of 2026_072925
 </pre>
 </fieldset>
-</br>
+<br>
 
 Publication list: **MD Student Events**
   
@@ -183,7 +187,7 @@ Publication List: **Student Events**
 |          |P3_Class of....
 </pre>
 </fieldset>
-<br><br>
+<br>
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">Faculty & Staff Data Extensions</legend>
 
@@ -196,4 +200,4 @@ Publication List: **Student Events**
            |Faculty and Staff Subscribe Form-Student Newsletter
 </pre>
 </fieldset> 
-<br>
+
