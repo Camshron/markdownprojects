@@ -121,16 +121,14 @@ font-size: 0.95em;
 There are some helpful lists online that you can print out that offer lots of call-to-action verbs.
 
 ### Titles
-
-- As you know, we put the person’s academic credentials after their name on first reference:  
-Nick McLain, MD, PhD.
+<ul>
+<li>As you know, we put the person’s academic credentials after their name on first reference:  
+Nick McLain, MD, PhD.</li>
 </br>
-- On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”
-
-
-
-
-
+<li>On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”</li>
+<br>
+<li>When using someone's job title:
+<br><br>
 <fieldset style ="
 border-left: 4px solid #673ab7;
 background-color: #ffffff;
@@ -148,16 +146,16 @@ font-size: 0.95em;
   padding: 0.3em 0.6em;
   border-radius: 3px;
   ">
-  Example:<br> When using someone's job title
+  Example
   </legend>
    Communications Specialist Nick McLain
-  </div>
   </fieldset>
-
+</li>
 <br>
 
-
-
+<li>Do not</strong> capitalize it when used 
+<strong>after</strong> their name  
+<br><br>
 <fieldset style="
   border-left: 4px solid #673ab7;
   background-color: #ffffff;
@@ -175,10 +173,11 @@ font-size: 0.95em;
     padding: 0.3em 0.6em;
     border-radius: 3px;
   ">
-    Example:<br> 
-    Do not capitalize it when used after their name
+    Example
   </legend>
   Nick McLain, communications specialist, said that…
+</li>
+</ul>
 </fieldset>
 
 
