@@ -128,7 +128,7 @@ When using someone’s job title:
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
   padding: 1em;
-  margin-left: 2em 0;
+  margin: 1em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 400px
@@ -146,7 +146,7 @@ When using someone’s job title:
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
   padding: 1em;
-  margin-left: 2em 0;
+  margin: 1em 0;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   max-width: 400px;
