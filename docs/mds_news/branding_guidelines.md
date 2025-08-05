@@ -52,56 +52,61 @@ font-size: 0.95em;
 </br>
 - “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”
 
-<fieldset style ="
-border-left: 4px solid #fbc02d;
-background-color: #ffffff;
-padding: 1em;
-margin-left: 2em;
-box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-border-radius: 4px;
-max-width: 700px;
-font-size: 0.95em;
+<div style="
+  display: flex;
+  gap: 1em;
+  justify-content: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-left: 2em;
 ">
-  <legend style="
-  font-weight: bold;
-  color: #000000;
-  background-color: #fbc02d;
-  padding: 0.3em 0.6em;
-  border-radius: 3px;
+
+  <fieldset style="
+    border-left: 4px solid #fbc02d;
+    background-color: #ffffff;
+    padding: 1em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 340px;
+    font-size: 0.95em;
+    flex: 1 1 300px;
   ">
-  Exception
-  </legend>
-  Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+    <legend style="
+      font-weight: bold;
+      color: #000000;
+      background-color: #fbc02d;
+      padding: 0.3em 0.6em;
+      border-radius: 3px;
+    ">
+      Exception
+    </legend>
+    Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
   </fieldset>
 
-
-<fieldset style ="
-border-left: 4px solid #2196f3;
-background-color: #ffffff;
-padding: 1em;
-margin-left: 2em;
-box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-border-radius: 4px;
-max-width: 700px;
-font-size: 0.95em;
-">
-  <legend style="
-  font-weight: bold;
-  color: #000000;
-  background-color: #2196f3;
-  padding: 0.3em 0.6em;
-  border-radius: 3px;
+  <fieldset style="
+    border-left: 4px solid #2196f3;
+    background-color: #ffffff;
+    padding: 1em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 340px;
+    font-size: 0.95em;
+    flex: 1 1 300px;
   ">
-  Note
-  </legend>
-  If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
+    <legend style="
+      font-weight: bold;
+      color: #000000;
+      background-color: #2196f3;
+      padding: 0.3em 0.6em;
+      border-radius: 3px;
+    ">
+      Note
+    </legend>
+    If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
     <strong>“Phase 3: Select Transitions 3 track today”</strong>
-  </div>
   </fieldset>
 
-
-
-
+</div>
   
 </br>
 
@@ -124,35 +129,64 @@ Nick McLain, MD, PhD.
 
 When using someone’s job title:
 
-<div style="
-  border-left: 4px solid #673ab7;
-  background-color: #f9f9f9;
-  padding: 1em;
-  margin-left: 2em;
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  max-width: 400px
+
+
+<fieldset style ="
+border-left: 4px solid #673ab7;
+background-color: #ffffff;
+padding: 1em;
+margin-left: 2em;
+box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+border-radius: 4px;
+max-width: 700px;
+font-size: 0.95em;
 ">
-  <strong>Example:</strong>
-  
-  Communications Specialist Nick McLain
-</div>
+  <legend style="
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #673ab7;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
+  ">
+  Example
+  </legend>
+   Communications Specialist Nick McLain
+  </div>
+  </fieldset>
 
 <ul>
-
+</br>
 <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name</li>  
 </ul>
-<div style="
-  border-left: 4px solid #673ab7;
-  background-color: #f9f9f9;
-  padding: 1em;
-  margin-left: 2em 0;
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  max-width: 400px;
-  max-height: 100px;
-"> <strong>Example</strong><br>
-  
-   Nick McLain, communications specialist, said that…
-</div>
+
+
+<fieldset style ="
+border-left: 4px solid #673ab7;
+background-color: #ffffff;
+padding: 1em;
+margin-left: 2em;
+box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+border-radius: 4px;
+max-width: 700px;
+font-size: 0.95em;
+">
+  <legend style="
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #673ab7;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
+  ">
+  Example
+  </legend>
+    Nick McLain, communications specialist, said that…
+  </div>
+  </fieldset>
+
+
+
+
+
+
 ___
+
