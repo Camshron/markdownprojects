@@ -127,7 +127,7 @@ Nick McLain, MD, PhD.
 </br>
 - On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”
 
-When using someone’s job title:
+
 
 
 
@@ -148,7 +148,7 @@ font-size: 0.95em;
   padding: 0.3em 0.6em;
   border-radius: 3px;
   ">
-  Example
+  Example:<br> When using someone's job title
   </legend>
    Communications Specialist Nick McLain
   </div>
@@ -156,8 +156,7 @@ font-size: 0.95em;
 
 <br>
 
-- Do not</strong> capitalize it when used 
-<strong>after</strong> their name  
+
 
 <fieldset style="
   border-left: 4px solid #673ab7;
@@ -176,10 +175,10 @@ font-size: 0.95em;
     padding: 0.3em 0.6em;
     border-radius: 3px;
   ">
-    Example
+    Example:<br> 
+    Do not capitalize it when used after their name
   </legend>
   Nick McLain, communications specialist, said that…
 </fieldset>
 
-<hr>
 
