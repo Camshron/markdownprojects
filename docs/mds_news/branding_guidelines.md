@@ -122,40 +122,42 @@ There are some helpful lists online that you can print out that offer lots of ca
 
 ### Titles
 <ul>
-<li>As you know, we put the person’s academic credentials after their name on first reference:  
-Nick McLain, MD, PhD.</li>
-</br>
-<li>On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”</li>
-<br>
-<li>When using someone's job title:
-<br><br>
-<fieldset style ="
-border-left: 4px solid #673ab7;
-background-color: #ffffff;
-padding: 1em;
-margin-left: 2em;
-box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-border-radius: 4px;
-max-width: 700px;
-font-size: 0.95em;
+  <li>As you know, we put the person’s academic credentials after their name on first reference:  
+    Nick McLain, MD, PhD.
+  </li>
+
+  <li>On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”</li>
+
+  <li>When using someone's job title:</li>
+
+</ul>
+
+<fieldset style="
+  border-left: 4px solid #673ab7;
+  background-color: #ffffff;
+  padding: 1em;
+  margin-left: 2em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  max-width: 700px;
+  font-size: 0.95em;
 ">
   <legend style="
-  font-weight: bold;
-  color: #ffffff;
-  background-color: #673ab7;
-  padding: 0.3em 0.6em;
-  border-radius: 3px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #673ab7;
+    padding: 0.3em 0.6em;
+    border-radius: 3px;
   ">
-  Example
+    Example
   </legend>
-   Communications Specialist Nick McLain
-  </fieldset>
-</li>
-<br>
+  Communications Specialist Nick McLain
+</fieldset>
 
-<li>Do not</strong> capitalize it when used 
-<strong>after</strong> their name  
-<br><br>
+<ul>
+  <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name:</li>
+</ul>
+
 <fieldset style="
   border-left: 4px solid #673ab7;
   background-color: #ffffff;
@@ -176,8 +178,6 @@ font-size: 0.95em;
     Example
   </legend>
   Nick McLain, communications specialist, said that…
-</li>
-</ul>
 </fieldset>
 
 
