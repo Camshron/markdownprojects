@@ -154,13 +154,10 @@ font-size: 0.95em;
   </div>
   </fieldset>
 
+<br>
 
-<ul>
-
-<li><strong>Do not</strong> capitalize it when used 
-<strong>after</strong> their name</li>  
-</ul>
-
+- Do not</strong> capitalize it when used 
+<strong>after</strong> their name  
 
 <fieldset style="
   border-left: 4px solid #673ab7;
