@@ -1,21 +1,19 @@
 
 
-# Preparing the Newsletter
+# Salesforce
 
-## Accessing Salesforce Folders
-
-### 1.  Navigate to Email Studio
+## 1.  Navigate to Email Studio
 
 - Click **Email Studio** in the main menu.
 - Select **Content**.
 - Open the folder labeled with the upcoming newsletter date.
 
-### 2. Edit the Newsletter Draft
+## 2. Edit the Newsletter Draft
 
 - Open the newsletter document in the folder.
 - Begin editing as needed.
 
-### 3. Insert Content
+## 3. Insert Content
 
 - Add the approved submissions from the editorial calendar into the newsletter draft.
 
@@ -47,8 +45,19 @@ Send every Monday at 5:30 PM ET. We send out six separate versions of the email:
   Stakeholders are allowed to unsubscribe from the newsletter, so you’ll need to change it to the <strong>commercial template</strong>.
 </div>
 
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Faculty & Staff Data Extensions</legend>
+
+<pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>Stakeholders
+|          |Core MSE Stakeholders_08_31_22
+           |Faculty and Staff Subscribe Form-Student Newsletter
+</pre>
+</fieldset> 
+</br>
 
 Publication List: **MD Student News Stakeholders**.
 
@@ -75,18 +84,50 @@ Publication List: **MD Student News Stakeholders**.
   We don’t want students to unsubscribe, so these emails should use the <strong>transactional template</strong>.
 </div>
 
-
-  - **Phase 1 Year 1:**  
-      `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
-
-  - **Phase 1 Year 2:**  
-      `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
-
-  - **Phase 2:**  
-      `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
-
-  - **Phase 3:**  
-      `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Phase 1 Year 1 Data Extension</legend>
+  <pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |P1Y1_Class of 2029_0725
+</pre>
+</fieldset>
+</br>
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Phase 1 Year 2 Data Extension</legend>
+  <pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |P1Y2_Class of 2028_072825
+</pre>
+</fieldset>
+</br>
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Phase 2</legend>
+  <pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |P1Y2_Class of 2027_072925
+</pre>
+</fieldset>
+</br>
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Phase 3</legend>
+  <pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |P1Y2_Class of 2026_072925
+</pre>
+</fieldset>
+</br>
 
 Publication list: **MD Student Events**
   
@@ -127,19 +168,31 @@ Template: **Commercial template**
 
 Publication List: **Student Events**
 
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Core MSE Stakeholders`
-  
-- `Data Extensions > IN-MED > MD Student News & Events > Admin > Faculty and Staff Subscribe Form-Students Newsletter`
+  <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Student Data Extensions</legend>
 
-- `Data Extensions > IN-MED > MD Student News & Events > P1Y1_Class of 2028_0824`
+<pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |P1Y1_Class of....
+|          |P1Y2_Class of....
+|          |P2_Class of....
+|          |P3_Class of....
+</pre>
+</fieldset>
+<br><br>
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">Faculty & Staff Data Extensions</legend>
 
-- `Data Extensions > IN-MED > MD Student News & Events > P1Y2_Class of 2027_0824`
-
-- `Data Extensions > IN-MED > MD Student News & Events > P2_Class of 2026_0824`
-
-- `Data Extensions > IN-MED > MD Student News & Events > P3_Class of 2025_0824`
-
-- `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
-
-
----
+<pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>Stakeholders
+|          |Core MSE Stakeholders_08_31_22
+           |Faculty and Staff Subscribe Form-Student Newsletter
+</pre>
+</fieldset> 
+<br>
