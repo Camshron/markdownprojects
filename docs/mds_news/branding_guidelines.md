@@ -154,37 +154,35 @@ font-size: 0.95em;
   </div>
   </fieldset>
 
+
 <ul>
 
-<li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name</li>  
+<li><strong>Do not</strong> capitalize it when used 
+<strong>after</strong> their name</li>  
 </ul>
 
-<fieldset style ="
-border-left: 4px solid #673ab7;
-background-color: #ffffff;
-padding: 1em;
-margin-left: 2em;
-box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-border-radius: 4px;
-max-width: 700px;
-font-size: 0.95em;
+
+<fieldset style="
+  border-left: 4px solid #673ab7;
+  background-color: #ffffff;
+  padding: 1em;
+  margin-left: 2em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  max-width: 700px;
+  font-size: 0.95em;
 ">
   <legend style="
-  font-weight: bold;
-  color: #ffffff;
-  background-color: #673ab7;
-  padding: 0.3em 0.6em;
-  border-radius: 3px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #673ab7;
+    padding: 0.3em 0.6em;
+    border-radius: 3px;
   ">
-  Example
+    Example
   </legend>
-    Nick McLain, communications specialist, said that…
-  </fieldset>
+  Nick McLain, communications specialist, said that…
+</fieldset>
 
-
-
-
-
-
-___
+<hr>
 
