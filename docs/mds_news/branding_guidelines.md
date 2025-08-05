@@ -155,7 +155,7 @@ font-size: 0.95em;
   </fieldset>
 
 <ul>
-</br>
+
 <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name</li>  
 </ul>
 
