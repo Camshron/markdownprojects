@@ -41,7 +41,7 @@ nav:
           - Livewhale Events Calendar: mds_news/livewhaleeventscalendar.md
           - Sitecore: mds_news/Sitecore.md
           - Sharepoint: mds_news/Sharepoint.md
-      - Salesforce Access: mds_news/access2salesforce.md
+      - Salesforce Access: mds_news/access.md
       - Newsletter Setup: mds_news/Newsletterprep.md
    
      #- Salesforce Emails: mds_news/emailssalesforce.md

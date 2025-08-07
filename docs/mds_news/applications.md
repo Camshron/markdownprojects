@@ -1,17 +1,16 @@
-
 # Purpose 
 To outline roles and usage of key applications utilized in the creation, management, and publication of content for MD Student News.
 
 
 <h2>Application Overview</h2>
 
-<div style="overflow-x: auto; margin-top: 1rem;">
-  <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th scope="col" style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Application</th>
-        <th scope="col" style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Purpose</th>
-        <th scope="col" style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Usage</th>
+<div style="overflow-x: auto; margin: 1rem 0 1rem 2em;">
+  <table style="width: 100%; border-collapse: collapse; min-width: 600px; font-size: 0.95em;">
+    <thead style="background-color: #f2f2f2;">
+      <tr>
+        <th style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Application</th>
+        <th style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Purpose</th>
+        <th style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Usage</th>
       </tr>
     </thead>
     <tbody>
@@ -37,8 +36,8 @@ To outline roles and usage of key applications utilized in the creation, managem
       </tr>
       <tr>
         <td style="padding: 0.5rem;"><strong>Smartsheet</strong></td>
-        <td style="padding: 0.5rem;">Where we house and schedule our published content</td>
-        <td style="padding: 0.5rem;">Plan and schedule upcoming content by assigning publish dates and owners</td>
+        <td style="padding: 0.5rem;">Content planning and scheduling</td>
+        <td style="padding: 0.5rem;">Assign publish dates and owners</td>
       </tr>
     </tbody>
   </table>

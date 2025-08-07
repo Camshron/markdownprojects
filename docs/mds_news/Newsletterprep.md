@@ -140,6 +140,17 @@ Publication list: **MD Student Events**
 
   - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
 
+<fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
+  <legend style="font-weight: bold;">LOA</legend>
+  <pre>
+├─>Data Extension
+| └─>IN-MED
+|    └─>MD Student News Events
+|       └─>AY 2025-2026  
+|          |LOAs_0825
+</pre>
+</fieldset>
+
 Publication List: **MD Student News Students**.
 
 ## Weekly Events

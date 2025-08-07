@@ -4,7 +4,7 @@
 
 ## 2. Enter event information
 
-- Enter the data from the email into the same fields in LiveWhale.
+  Enter the data from the email into the same fields in LiveWhale.
 </b>  
 
   
@@ -12,7 +12,7 @@
   <fieldset style="border: 1px solid #ccc; border-radius: 8px; padding: 1rem; max-width: 1000px; background-color: #f9f9f9;">
   <legend style="font-weight: bold;">Event Metadata</legend>
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-    <ul style="list-style: none; padding: 0; margin: 0; flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0; flex: 1 1 200px;">
       <li>Title</li>
       <li>Date & Time</li>
       <li>Brief Summary</li>
@@ -20,7 +20,7 @@
       <li>Details</li>
       <li>Online Event</li>
     </ul>
-    <ul style="list-style: none; padding: 0; margin: 0; flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0; flex:1 1 200px;">
       <li>Event Type</li>
       <li>Audience</li>
       <li>Campus</li>
