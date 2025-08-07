@@ -8,9 +8,12 @@
 <fieldset style="
   border-left: 6px solid #673ab7;
   background-color: #f9f9f9;
-  padding: 1.5em;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  border-radius: 6px;
+  padding: 1em;
+  margin: 1em auto;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 90%;
+  max-width: 600px;
   font-size: 1em;
 ">
   <legend style="
