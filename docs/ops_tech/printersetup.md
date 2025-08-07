@@ -14,5 +14,27 @@
 
 6. Go to the Printer tab and click **Set as Default Printer**.
 
-!!! note
-    If the employee does not have access, contact [htshelp@iu.edu](mailto:htshelp@iu.edu) for assistance.
+
+<fieldset style="
+    border-left: 4px solid #2196f3;
+    background-color: #ffffff;
+    padding: 1em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 340px;
+    font-size: 0.95em;
+    flex: 1 1 300px;
+  ">
+    <legend style="
+      font-weight: bold;
+      color: #000000;
+      background-color: #2196f3;
+      padding: 0.3em 0.6em;
+      border-radius: 3px;
+    ">
+      Note
+    </legend>
+    If the employee does not have access, contact <a href ="mailto:htshelp@iu.edu" target="_blank">htshelp@iu.edu</a>
+  </fieldset>
+
+

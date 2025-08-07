@@ -82,7 +82,7 @@ Publication List: **MD Student News Stakeholders**.
     padding: 0.3em 0.6em;
     border-radius: 3px;
   ">
-    Important !!!
+    Important
   </legend>
   We don’t want students to unsubscribe, so these emails should use the <strong>transactional template</strong>.
 </fieldset>
