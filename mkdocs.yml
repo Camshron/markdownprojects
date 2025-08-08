@@ -86,9 +86,14 @@ plugins:
       glob:
         - "opstechonboarding.md" # Exclude the README from the navigation
         - "help.md"
-  - pdf-export:
-      combined: true                # optional: make one big PDF of the whole site
-      combined_output_path: pdf/Full-Guide.pdf
-      media_type: print              # use print CSS rules for better formatting
-      verbose: false  
-        
+  - mkdocs-with-pdf:
+      enabled: true
+      pdf:
+        enabled: true
+        output_path: "pdfs"
+        toc: true
+        toc_depth: 2
+        cover: "cover.md" # Optional cover page for the PDF
+        include_nav: true # Include navigation in the PDF
+        exclude_nav: false # Exclude navigation from the PDF
+        exclude_search: false # Exclude search from the PDF
