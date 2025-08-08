@@ -86,7 +86,7 @@ plugins:
       glob:
         - "opstechonboarding.md" # Exclude the README from the navigation
         - "help.md"
-  - mkdocs-with-pdf:
+  - with-pdf:
       enabled: true
       pdf:
         enabled: true
