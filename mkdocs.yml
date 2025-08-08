@@ -68,7 +68,7 @@ markdown_extensions:
   - pymdownx.details # For expandable sections
   - pymdownx.tabbed: # For content tabs
       alternate_style: true
-  - mkdocs-pdf-export-plugin:
+  - pdf-export:
       combined: true                # optional: make one big PDF of the whole site
       combined_output_path: pdf/Full-Guide.pdf
       media_type: print              # use print CSS rules for better formatting
