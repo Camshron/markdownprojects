@@ -1,9 +1,9 @@
 
-# **Branding & Guidelines**
+**Branding & Guidelines**
 
-  </legend>
-  To learn more about the IU branding guidelines vist the<a href "https://medicine.iu.edu/style-guide" target="_blank" rel="noopener nonreferrer"> Indiana University Branding Guide</a>
-  <br><br>
+To learn more about the IU branding guidelines visit the
+<a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener noreferrer">Indiana University Branding Guide</a>
+<br><br>
 
 <fieldset style="
   border-left: 6px solid #673ab7;
@@ -46,97 +46,59 @@
 
   <h3>Headlines</h3>
   <ul>
-    <li>Much to my chagrin, Strat Comm wants headlines in sentence case. So a headline would be:<br>
-      “Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”</li>
+    <li>Much to my chagrin, Strat Comm wants headlines in sentence case. So a headline would be:
+      <blockquote>“Nick disagrees with Strat Comm team” not “Nick Disagrees with Strat Comm Team.”</blockquote>
+    </li>
+    <li>If you’re posting a blog on the website for MD Student News and it is a phase-specific item, put that in the headline so they know it’s an item for their attention:
+      <strong>“Phase 3: Select Transitions 3 track today”</strong>
+    </li>
   </ul>
 
-  <div style="
-    display: flex;
-    gap: 1em;
-    justify-content: start;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    margin-left: 2em;
-  ">
-    <fieldset style="
-      border-left: 4px solid #fbc02d;
-      background-color: #ffffff;
-      padding: 1em;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      border-radius: 4px;
-      max-width: 340px;
-      font-size: 0.95em;
-      flex: 1 1 300px;
-    ">
-      <legend style="
-        font-weight: bold;
-        color: #000000;
-        background-color: #fbc02d;
-        padding: 0.3em 0.6em;
-        border-radius: 3px;
-      ">
-        Exception
-      </legend>
-      Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
-    </fieldset>
-
   <fieldset style="
-      border-left: 4px solid #2196f3;
-      background-color: #ffffff;
-      padding: 1em;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      border-radius: 4px;
-      max-width: 340px;
-      font-size: 0.95em;
-      flex: 1 1 300px;
+    border-left: 4px solid #fbc02d;
+    background-color: #ffffff;
+    padding: 1em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    max-width: 340px;
+    font-size: 0.95em;
+    margin: 1em 0;
+  ">
+    <legend style="
+      font-weight: bold;
+      color: #000000;
+      background-color: #fbc02d;
+      padding: 0.3em 0.6em;
+      border-radius: 3px;
     ">
-      <legend style="
-        font-weight: bold;
-        color: #000000;
-        background-color: #2196f3;
-        padding: 0.3em 0.6em;
-        border-radius: 3px;
-      ">
-        Note
-      </legend>
-      If you’re posting a blog on the website for MD Student News and it is a phase-specific item, go ahead and put that in the headline so they know it’s an item for their attention:  
-      <strong>“Phase 3: Select Transitions 3 track today”</strong>
-    </fieldset>
-  </div>
+      Exception
+    </legend>
+    Events for the calendar. Title case is fine for those, as they are the proper noun names of the events.
+  </fieldset>
 
   <h3>Call to Action</h3>
   <ul>
-    <li>We get a lot of submissions that have no calls to action:<br>
-      “Phase 2 scheduling guidelines.” It doesn’t tell the reader what to do with it.</li>
-    <li>It doesn’t seem like a big deal, but it really helps to make that explicit:<br>
-      “Class of 2027: Read more about upcoming Phase 2 scheduling guidelines.”</li>
+    <li>We get a lot of submissions that have no calls to action:
+      <blockquote>“Phase 2 scheduling guidelines.” It doesn’t tell the reader what to do with it.</blockquote>
+    </li>
+    <li>It doesn’t seem like a big deal, but it really helps to make that explicit:
+      <blockquote>“Class of 2027: Read more about upcoming Phase 2 scheduling guidelines.”</blockquote>
+    </li>
   </ul>
   <p>There are some helpful lists online that you can print out that offer lots of call-to-action verbs.</p>
 
   <h3>Titles</h3>
   <ul>
     <li>As you know, we put the person’s academic credentials after their name on first reference:<br>
-      Nick McLain, MD, PhD.</li>
-    <li>On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”</li>
-    <li>When using someone's job title:</li>
+      Nick McLain, MD, PhD.
+    </li>
+    <li>On second reference (and third, fourth, etc.), just use their last name—even if they’re a doctor. Don’t put “Dr. McLain wrote this…” – just say “McLain wrote this…”
+    </li>
+    <li>When using someone's job title, capitalize it only when it appears before their name:
+      <blockquote>Communications Specialist Nick McLain</blockquote>
+    </li>
+    <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name:
+      <blockquote>Nick McLain, communications specialist, said that…</blockquote>
+    </li>
   </ul>
-
-  
-  <blockquote><legend style="
-      font-weight: bold;color:#000000">
-      Example
-    </legend>
-    Communications Specialist Nick McLain
-  
-  </blockquote>
-  <ul>
-    <li><strong>Do not</strong> capitalize it when used <strong>after</strong> their name:</li>
-  </ul>
-
-  <blockquote><legend style="
-      font-weight: bold;color:#000000">
-      Example
-    </legend>
-    Nick McLain, communications specialist, said that…
-  
 </fieldset>
