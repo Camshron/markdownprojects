@@ -48,7 +48,13 @@ markdown_extensions:
 plugins:
   - search
   - mike
-  - awesome-nav
+  - awesome-nav:
+      enabled: true
+      use_directory_urls: true
+      use_index: true
+      index_file: index.md
+      index_name: Home
+
       
   - minify: # Optional: Minify HTML, CSS, JS for faster loading
       minify_html: true
