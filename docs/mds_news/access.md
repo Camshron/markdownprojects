@@ -1,4 +1,5 @@
-# Application Access
+# Application Access"
+For most of these applications, access can be requested by emailing the listed contacts. Salesforce, however, requires completion of an online tutorial before access is granted.  
 
 ## Contact for access:
 <div style="display: flex; flex-direction: column; gap: 1em; margin-left: 2em;">

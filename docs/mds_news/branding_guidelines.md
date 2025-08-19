@@ -2,7 +2,7 @@
 **Branding & Guidelines**
 
 To learn more about the IU branding guidelines visit the
-<a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener noreferrer">Indiana University Branding Guide</a>
+<a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener noreferrer">Indiana University Branding Guide</a>.  Below is just a sample of some of the guidelines
 <br><br>
 
 <fieldset style="

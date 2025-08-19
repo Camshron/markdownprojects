@@ -1,0 +1,10 @@
+title: Operations Technology Onboarding
+collapse: false
+order:
+  - purposedef.md
+  - workspace_setup.md
+  - compassign.md
+  - loginfornewdevice.md
+  - printersetup.md
+  - phonesetup.md
+  - 911ack.md

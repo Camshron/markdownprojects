@@ -1,4 +1,14 @@
 # Operations Technology Onboarding
+<head>
+<style>
+h1 {
+   color: #990000;
+}
+h2 {
+   color: #990000;
+}
+</style>   
+</head>
 
 ## Purpose
 
@@ -111,14 +121,8 @@ To document the the step-by-step process for setting up a new employee's workspa
 !!! warning "Important: Activation Delayed Until Complete"
     The assigned phone number will **not be activated** until the employee completes the 911 Acknowledgement form.
 
-**Option A (One.IU portal):**
 
-- Go to [one.iu.edu](https://one.iu.edu).
-- Search for **Personal Information**.
-- Select **Employee Information**.
-- Follow the prompts to complete the **911 Acknowledgement**.
-
-**Option B (Direct Link):**
+**Direct Link:**
 
 - Visit the [911 Acknowledgement Form](https://iunetworks-fireform.eas.iu.edu/online/form/authen/e911).
 

@@ -32,7 +32,7 @@ To outline roles and usage of key applications utilized in the creation, managem
         </tr>
         <tr style="background-color: #f9f9f9;">
           <td style="padding: 0.75rem;"><strong>Sitecore</strong></td>
-          <td style="padding: 0.75rem;">Internal newsletter drafting and publication</td>
+          <td style="padding: 0.75rem;">Drafting and publication for major stories that need a larger audience</td>
           <td style="padding: 0.75rem;">Draft and edit newsletter content</td>
         </tr>
         <tr style="background-color: #ffffff;">
