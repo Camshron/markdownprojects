@@ -138,7 +138,7 @@ Publication list: **MD Student Events**
 
 - LOAs are a special case and will need their own version of the email, which will be the **stakeholder version** with all phase info included. However, we don’t want the students to unsubscribe, so use the **transactional template**.
 
-  - `Data Extensions > IN-MED > MD Student News & Events > LOAs_0824`
+  
 
 <fieldset style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">
   <legend style="font-weight: bold;">LOA</legend>
