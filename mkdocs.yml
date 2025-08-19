@@ -49,8 +49,8 @@ plugins:
   - search
   - mike
   - awesome-nav     
-  - minify: # Optional: Minify HTML, CSS, JS for faster loading
-      minify_html: true
+ # - minify: # Optional: Minify HTML, CSS, JS for faster loading
+  #    minify_html: true
   - git-revision-date:
       enabled: true
   - git-authors:
