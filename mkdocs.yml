@@ -62,5 +62,5 @@ plugins:
       glob:
         - "opstechonboarding.md" # Exclude the README from the navigation
         - "help.md"
-        - "emailsalesforce"
+        - "emailsalesforce.md"
   
