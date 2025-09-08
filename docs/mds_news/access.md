@@ -1,26 +1,27 @@
-# Application Access"
+# Application Access
 For most of these applications, access can be requested by emailing the listed contacts. Salesforce, however, requires completion of an online tutorial before access is granted.  
 
-## Contact for access:
-<div style="display: flex; flex-direction: column; gap: 1em; margin-left: 2em;">
+<h2>Contact for Access and Help:</h2>
+<div style="margin-left: 1em; display: grid; gap: 0.75em;">
 
-  <div style="border-left: 4px solid #2196F3; padding: 0.5em 1em; background: #f9f9f9;">
+  <div style="border-left: 3px solid #2196F3; padding: 0.4em 0.8em; background: #f9f9f9;">
     <strong>LiveWhale:</strong> <a href="mailto:lboak@iu.edu">Lynn Boak</a>
   </div>
 
-  <div style="border-left: 4px solid #4CAF50; padding: 0.5em 1em; background: #f9f9f9;">
+  <div style="border-left: 3px solid #4CAF50; padding: 0.4em 0.8em; background: #f9f9f9;">
     <strong>Salesforce:</strong> <a href="mailto:joelsmit@iu.edu">See instructions below</a>
   </div>
 
-  <div style="border-left: 4px solid #4CAF50; padding: 0.5em 1em; background: #f9f9f9;">
-    <strong>Smartsheet & SharePoint:</strong> <a href="mailto:joelsmit@iu.edu">Joel Smith</a>
+  <div style="border-left: 3px solid #4CAF50; padding: 0.4em 0.8em; background: #f9f9f9;">
+    <strong>Smartsheet &amp; SharePoint:</strong> <a href="mailto:joelsmit@iu.edu">Joel Smith</a>
   </div>
 
-  <div style="border-left: 4px solid #FF9800; padding: 0.5em 1em; background: #f9f9f9;">
+  <div style="border-left: 3px solid #FF9800; padding: 0.4em 0.8em; background: #f9f9f9;">
     <strong>Sitecore:</strong> <a href="mailto:ajgeisle@iu.edu">Alyssa Geisler</a>
   </div>
 
 </div>
+
 
 ## Salesforce Access
 
@@ -40,7 +41,7 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 
 ### 4. Complete the form as follows:
 
-<table style =""width: 100%; border-collapse: collapse; min-width: 600px;">
+<table style ="width: 100%; border-collapse: collapse; min-width: 600px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th scope="col" style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ccc;">Field</th>
@@ -91,4 +92,3 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 - You may receive a follow-up email from IU’s CRM team with required trainings. Please complete them as instructed.
 
 ---
-

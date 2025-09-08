@@ -1,8 +1,6 @@
-## Purpose
-To ensure consistent organization and handling of MD Student News submissions using Outlook and associated tools. 
+# Outlook
 
-
-### 1. Organize Email Submissions
+##  Organize Email Submissions
 
 - Open the MDS News inbox.
 
@@ -24,13 +22,13 @@ To ensure consistent organization and handling of MD Student News submissions us
 
 - Drag and drop submissions into the appropriate weekly folder.
 
-### 2. Handling Repeat Submissions
+## Handling Repeat Submissions
 
 - If a submission needs to be repeated in a future edition:
   - Add the item to the editorial calendar for the desired week.
   - Move a copy of the submission to that week's folder.
 
-### 3. Check for Updates
+## Check for Updates
 
 - Review all auto-responses carefully.
 - Look for any updates or revisions that may be hidden within automatic replies.

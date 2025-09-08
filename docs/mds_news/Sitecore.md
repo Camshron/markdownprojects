@@ -1,5 +1,7 @@
 # In Sitecore
 
+Going forward Sitecore will only be used on rare occassions. For most of our submissions we will use Sharepoint instead.
+
 ## 1. Click through the following:
 
 <div style="max-width: 500px; max-height:300px; color: #333333; font-size: 0.9em; border: 1px solid #ccc; border-radius: 6px; padding: 0.5em; background: #f9f9f9; overflow-x: auto;">

@@ -1,40 +1,112 @@
-# Granting Printer Access to New Employees
+# IU Print: Printing, Scanning, and Copying Guide
 
-1. Access the Printer Directory for the 5th floor of the MERB:
-   - Click the Start menu, type `Run`, and hit **Enter**.
+---
 
-2. Type `\\IU-OTA-PRNT01` and click **OK**.
+## Printing
 
-3. In the window that appears, use the **Search in IU-OTA-PRNT01** box:
-   - Type `191225-HA5003` and press **Enter**.
+### 1. From Your Computer
 
-4. Select the printer when it appears.
+- Open the **Print** screen in your application.
+- Choose your printer:
+  - **Black & White**: `IU Campus BW Printer`
+  - **Color**: `IU Campus Color Printers`
+- Click **Print**.
 
-5. Right-click the printer and select **Open**.
+### 2. At the Printer
 
-6. Go to the Printer tab and click **Set as Default Printer**.
+- Go to the **workroom printer**.
+- Tap your **Crimson Card** on the **card reader** (look for the sticker or post-it note near the printer model number).
+- Wait a few seconds for your information to load.
+- Your print jobs will appear on the screen.
+- Select the items you want to print.
+- Tap **Print All**.
+- When finished, **log out** by:
+  - Pressing **Logout** (bottom left), or
+  - Tapping the **circle icon with an image**.
 
+---
 
-<fieldset style="
-    border-left: 4px solid #2196f3;
-    background-color: #ffffff;
-    padding: 1em;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    border-radius: 4px;
-    max-width: 340px;
-    font-size: 0.95em;
-    flex: 1 1 300px;
-  ">
-    <legend style="
-      font-weight: bold;
-      color: #000000;
-      background-color: #2196f3;
-      padding: 0.3em 0.6em;
-      border-radius: 3px;
-    ">
-      Note
-    </legend>
-    If the employee does not have access, contact <a href ="mailto:htshelp@iu.edu" target="_blank">htshelp@iu.edu</a>
-  </fieldset>
+## Mobile Printing
 
+- Visit: [https://mobile.print.iu.edu/myprintcenter/](https://mobile.print.iu.edu/myprintcenterter and tap your **Crimson Card** to release the job.
 
+---
+
+## Copying & Scanning
+
+### 1. Tap your **Crimson Card**.
+
+### 2. Press the **Home** button.
+
+### 3. Choose **Copy** or **Scan**:
+
+- Select **High Quality** or **Low Quality**.
+
+### 4. Scanned files will be emailed to you shortly.
+
+### 5. When finished, **log out**:
+
+- Press **Logout**, or
+- Tap the **circle icon with an image**.
+
+---
+
+## Installing IU Printers on Your Device
+
+### Windows
+
+1. Download the installer from [IUware](https://iuware.iu.edu/Windows/List/7/Titles/25).
+   - Filename: IU Campus Queues_for_x64.exe
+2. If prompted by SmartScreen:
+   - Click **More info** → **Run anyway**.
+3. Click **Install**, then **Finish**.
+4. When printing:
+   - Choose `IU Campus Black & White Printer` or `IU Campus Color Printer`.
+   - Enter your **IU username** when prompted.
+
+### macOS
+
+1. Download the installer from [IUware](https://iuiversal_IU_Print_Popup_v1.3.dmg`.
+2. Run `Popup.pkg`.
+3. Click **Continue** → **Continue** → **Install**.
+4. Enter your **admin credentials** if prompted.
+5. After installation:
+   - Print using `Universal_IU_Print`.
+   - To print in color: go to **Printer Options → Color Settings → Color**.
+   - Enter your **IU username** when prompted.
+
+---
+
+## If the Printer Doesn’t Show Up
+
+### Step 1: Add the Printer
+
+#### Windows
+
+- Connect to **IU Network** (Eduroam or wired).
+- Restart or log off/on.
+- Open File Explorer and paste:  
+  `\\universal.print.iu.edu\Universal_IU_Print`
+- Open **Software Center** and install the **Universal IU Print** app.
+
+#### Mac
+
+- Open **Self Service** (make sure you're logged in).
+- Install the **Universal IU Print** app.
+
+#### Mobile
+
+- Go to [https://mobile.print.iu.edu](https://mobile.print.iu.edu).
+
+### Step 2: Release the Print Job
+
+- Visit any **UIUP printer**.
+- Tap your **Crimson Card** on the card reader.
+- Select specific jobs or **Print All**.
+- Jobs remain in the queue for **24 hours**.
+
+---
+
+## Need Help?
+
+Email: [printing@iu.edu](mailto:printing@iu.edu)

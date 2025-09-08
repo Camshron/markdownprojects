@@ -102,3 +102,17 @@ To learn more about the IU branding guidelines visit the
     </li>
   </ul>
 </fieldset>
+<!--Test Code>
+<br><br><br>
+
+<div class="prose max-w-3xl mx-auto p-6">
+
+  <p>
+    To learn more about the IU branding guidelines visit the
+    <a href="https://medicine.iu.edu/style-guide" target="_blank" rel="noopener noreferrer" class="text-blue-600 underline hover:text-blue-800">
+      Indiana University Branding Guide
+    </a>.
+    Below is just a sample of some of the guidelines.
+  </p>
+
+  
