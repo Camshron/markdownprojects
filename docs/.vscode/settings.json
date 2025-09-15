@@ -1,0 +1,17 @@
+{
+  "markdownlint.config": {
+    "MD033": { "allowed_elements": ["div", "br", "span", "script"] },
+    "MD013": false,  // disable line length rule
+    "MD041": false, 
+    // First line heading — MkDocs often starts with front matter or plain intro text
+
+    "MD036": false, 
+    // Emphasis used instead of a heading — MkDocs styling may use **bold** sections
+
+    "MD024": { "siblings_only": true }, 
+    // Multiple headings with the same content — relax so you can reuse section names like "Overview"
+
+    "MD026": { "punctuation": ".,;:!?" }, 
+    // Trailing punctuation in headings — allow question marks or colons
+  }
+}

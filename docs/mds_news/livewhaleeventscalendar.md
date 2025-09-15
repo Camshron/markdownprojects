@@ -1,13 +1,13 @@
 # Livewhale Events Calendar
 
-## 1. Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
+## Go to the [Livewhale Events Calendar](https://events.iu.edu/livewhale/) 
 
-## 2. Enter event information
+---
+
+##  Enter event information
 
   Enter the data from the email into the same fields in LiveWhale.
 </b>  
-
-  
 
   <fieldset style="border: 1px solid #ccc; border-radius: 8px; padding: 1rem; max-width: 1000px; background-color: #f9f9f9;">
   <legend style="font-weight: bold;">Event Metadata</legend>
@@ -31,6 +31,6 @@
   </div>
 </fieldset>
 
+---
 
-
-## 3. Click Save
+## Click Save

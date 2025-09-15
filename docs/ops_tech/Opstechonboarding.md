@@ -1,14 +1,4 @@
 # Operations Technology Onboarding
-<head>
-<style>
-h1 {
-   color: #990000;
-}
-h2 {
-   color: #990000;
-}
-</style>   
-</head>
 
 ## Purpose
 
@@ -71,28 +61,19 @@ To document the the step-by-step process for setting up a new employee's workspa
    - Ensure that the employee has successfully logged into their laptop.
 
 ### Granting Printer Access to New Employees
+See [[printersetup]] for more information
 
 
-1.	Access the Printer Directory for the fifth floor of the MERB.
-     - Click on the Search bar and type Run.
-2. Type `\\IU-OTA-PRNT01` and **click** Ok.
-3. In the top-right corner of the window, find the **Search** box labeled **Search in IU-OTA-PRNT01**.  
-    - Click inside the search box.  
-    - Type `191225-HA5003` and press **Enter** on your keyboard.
-4. Select the printer when it pops up.
-5. **Right-Click** on the printer then, **select** open.
-6. Click on the printer tab and **select Set as Default Printer**
-
-!!! note If the employee does not have access, contact htshelp@iu.edu for assistance.
+!!! note If the employee still does not have access, after setup, contact htshelp@iu.edu for assistance.
   
 ### Assigning a Phone Number to a New Employee
 
 1. Access Telecom Services Request
-     - Navigate to Telecom Services Request.
-2. **Complete Service Request
+     - [Navigate to Telecom Services Request](https://uits.iu.edu/services/wifi-and-networks/telecommunications/index.html).
+2. Complete Service Request
      - **Click** on Internal Services Requests.
      - **Select** Internal to IU.
-3. Initiate a Teams CallsService Request
+3. Initiate a Teams Calls Service Request
    - **Click** on Teams Calls Service Request.
    - **Fill out** the Teams Calls Service Request with the following values.
 

@@ -1,43 +1,68 @@
-# Sharepoint
+# SharePoint
 
-## 1. Login to [MD Student News Sharepoint](https://indiana.sharepoint.com/sites/MedNet-MDSN) 
+## Login  
 
-## 2. Create a New News Post
+- Go to [MD Student News SharePoint](https://indiana.sharepoint.com/sites/MedNet-MDSN).  
 
-- Click "+ New"
-- Select "News Post"
+---
 
-## 3. Select a News Template
+## Create a New News Post  
 
-- Select the blank template. You can select a header image later.
+- **Click** `+ New`  
+- **Select** `News Post`
 
-## 4. Click Create Post
- 
-## 5. Add at title
+---
 
-- Avoid using punctuation like " ; " , " : ", and " - ".
+## Select a template
 
-## 6. Set the Author
+- Choose the `Blank template`  
+- You can add a header image later  
 
-- Remove your name from the author field and enter mdsnews@iu.edu.
-- On rare occasions we may use the actual authors name in this slot.
+---
 
-## 7. Add the text of the article
+## Create Post
 
-- You can copy/paste from Microsoft Word with minimal need to reformat.
+- `Create Post`
 
-## 8. Turn off comments
+---
 
-## 9. Click Page Details
+## Add a title
 
-## 10. Click Scheduling
+- Enter a title
+- Avoid punctuation such as `;`, `:`, and `-`  
 
-- Set schedule for 5:15 PM on the day of the newsletter release.
+---
 
-## 11. Select the relevant class year(s) 
+## Set the author  
 
-## 12. Click save and close
+- Replace your name with **<mdsnews@iu.edu>**  
+- Rare exceptions: you may use the actual author’s name  
 
-## 13. Add page link to Editorial Calendar
+---
 
-- This is how we track all published stories and share with stakeholders. 
+## Add the article text  
+
+- Copy/paste from Microsoft Word with minimal reformatting  
+
+---
+
+## Turn off comments
+
+- **Click** the slider to off.
+
+---
+
+## Configure Post Settings
+
+- **Click** `Page details`  
+- **Click** `Scheduling`  
+  - Set the schedule for **3:00 PM** on the newsletter release day.  
+- **Select** the relevant class year(s)  
+- **Click** `Save and close`  
+
+---
+
+## Final Step  
+
+- Add the page link** to the **Editorial Calendar**  
+  - This is how we track all published stories and share with stakeholders  

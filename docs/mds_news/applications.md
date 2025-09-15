@@ -1,6 +1,6 @@
-# Purpose 
-To outline roles and usage of key applications utilized in the creation, management, and publication of content for MD Student News.
+# Purpose
 
+To outline roles and usage of key applications utilized in the creation, management, and publication of content for MD Student News.
 
 <section class="tools-overview">
   <h3>Publishing Tools Overview</h3>
@@ -86,4 +86,4 @@ To outline roles and usage of key applications utilized in the creation, managem
   background-color: #ffffff;
 }
 
-</style>  
+</style>

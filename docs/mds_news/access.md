@@ -1,7 +1,11 @@
 # Application Access
+
 For most of these applications, access can be requested by emailing the listed contacts. Salesforce, however, requires completion of an online tutorial before access is granted.  
 
-<h2>Contact for Access and Help:</h2>
+---
+
+## Contacts for Access and Help:
+
 <div style="margin-left: 1em; display: grid; gap: 0.75em;">
 
   <div style="border-left: 3px solid #2196F3; padding: 0.4em 0.8em; background: #f9f9f9;">
@@ -22,24 +26,31 @@ For most of these applications, access can be requested by emailing the listed c
 
 </div>
 
+---
 
-## Salesforce Access
+### Salesforce Access
 
 To request access to Salesforce Marketing Cloud, follow the steps below:
 
-### 1. Navigate to the access portal
+#### Navigate to the access portal
 
 - Go to [Salesforce Marketing Cloud User Guide](https://salesforce.ucm.iu.edu)
 
-### 2. Locate the access request form
+--- 
+
+#### Locate the access request form
 
 - Scroll down to the **Getting access to Marketing Cloud** section.
 
-### 3. Open the request form
+---
+
+#### Open the request form
 
 - Click on **Submit an access request form**, then select the **User access request form** button.
 
-### 4. Complete the form as follows:
+---
+
+#### Complete the form as follows:
 
 <table style ="width: 100%; border-collapse: collapse; min-width: 600px;">
   <thead>
@@ -76,18 +87,24 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
   </tbody>
 </table>
 
-### 5. Complete compliance requirements
+---
+
+#### Complete compliance requirements
 
 - Click on each of the Agreements and Tutorials and complete them.
 
 - Once completed, use the dropdown to select:
     >“I have completed all required compliance tutorials and agreements.”
 
-### 6. Submit your request
+---
 
-- Scroll to the bottom of the page and click Submit.
+#### Submit your request
 
-### 7. Follow-up training
+- Scroll to the bottom of the page and click `Submit`.
+
+---
+
+#### Follow-up training
 
 - You may receive a follow-up email from IU’s CRM team with required trainings. Please complete them as instructed.
 

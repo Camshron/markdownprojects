@@ -5,7 +5,9 @@
 - Open the MDS News inbox.
 
 - Create a folder for each week's edition, using a clear naming convention.
-  **YYYY-MM-DD Edition**
+
+**YYYY-MM-DD Edition**
+
 <div style="
   border-left: 4px solid #673ab7;
   background-color: #f9f9f9;
@@ -18,6 +20,7 @@
   <strong>Example:</strong>
   
   _2025-07-22 Edition_
+
 </div>  
 
 - Drag and drop submissions into the appropriate weekly folder.
