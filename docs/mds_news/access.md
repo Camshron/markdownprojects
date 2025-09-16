@@ -4,7 +4,7 @@ For most of these applications, access can be requested by emailing the listed c
 
 ---
 
-|**Contacts for Access and Help:**||
+|Contacts for Access and Help:||
 |-----------------------------|-----|
 |**Livewhale:**| [Lynn Boak](mailto:lboak@iu.edu)|
 |**Saleforce:**| [See instructions below](#salesforce-access)|
