@@ -1,18 +1,19 @@
 title: MDS News Docs
 collapse: true
 order:
-- Tools & Platforms:
-    - Livewhale Events: livewhaleeventscalendar.md
-    - Outlook: Outlook.md
-    - Sharepoint: Sharepoint.md
-    - Sitecore: Sitecore.md
-- Processes and Workflows:
-    - Newsletter Prep: Newsletterprep.md
-    - Access Management: access.md
-- Guidelines & Policies:
-    - Branding Guidelines: branding_guidelines.md    
-- Team Information: 
-    - Team Overview: team.md
-- Application Overview:
-    - Applications: Applications
+  - Tools & Platforms:
+      - Livewhale Events: livewhaleeventscalendar.md
+      - Outlook: Outlook.md
+      - SharePoint: Sharepoint.md
+      - Sitecore: Sitecore.md
+  - Processes and Workflows:
+      - Newsletter Prep: Newsletterprep.md
+      - Access Management: access.md
+  - Guidelines & Policies:
+      - Branding Guidelines: branding_guidelines.md
+  - Team Information:
+      - Team Overview: team.md
+  - Application Overview:
+      - Applications: Applications.md
+
  
