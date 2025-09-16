@@ -1,4 +1,4 @@
-# Application Access
+# Access
 
 For most of these applications, access can be requested by emailing the listed contacts. Salesforce, however, requires completion of an online tutorial before access is granted.  
 
@@ -22,19 +22,13 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 
 - Go to [Salesforce Marketing Cloud User Guide](https://salesforce.ucm.iu.edu)
 
-
-
 #### Locate the access request form
 
 - Scroll down to the **Getting access to Marketing Cloud** section.
 
-
-
 #### Open the request form
 
 - Click on **Submit an access request form**, then select the **User access request form** button.
-
-
 
 #### Complete the form as follows:
 
