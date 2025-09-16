@@ -11,7 +11,6 @@ For most of these applications, access can be requested by emailing the listed c
 |**Sharepoint & Smartsheet:**|[Joel Smith](mailto:joelsmit@iu.edu)|
 |**Sitecore:**| [Alyssa Geisler](mailto:ajgeisle@iu.edu)|
 
-
 ---
 
 ### Salesforce Access
