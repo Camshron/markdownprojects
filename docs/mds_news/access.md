@@ -67,8 +67,6 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
   </tbody>
 </table>
 
-
-
 #### Complete compliance requirements
 
 - Click on each of the Agreements and Tutorials and complete them.
@@ -76,14 +74,10 @@ To request access to Salesforce Marketing Cloud, follow the steps below:
 - Once completed, use the dropdown to select:
     >“I have completed all required compliance tutorials and agreements.”
 
-
 #### Submit your request
 
 - Scroll to the bottom of the page and click `Submit`.
 
-
-
 #### Follow-up training
 
 - You may receive a follow-up email from IU’s CRM team with required trainings. Please complete them as instructed.
-
